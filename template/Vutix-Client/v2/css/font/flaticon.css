@@ -1,0 +1,55 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 05/08/2019 08:44
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../font/Flaticon.eot");
+  src: url("../font/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../font/Flaticon.woff2") format("woff2"),
+       url("../font/Flaticon.woff") format("woff"),
+       url("../font/Flaticon.ttf") format("truetype"),
+       url("../font/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../font/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+}
+
+.flaticon-stop:before { content: "\f100"; }
+.flaticon-play-outlined-circular-button:before { content: "\f101"; }
+.flaticon-music-player-play:before { content: "\f102"; }
+.flaticon-play-button:before { content: "\f103"; }
+.flaticon-thin-arrowheads-pointing-down:before { content: "\f104"; }
+.flaticon-left:before { content: "\f105"; }
+.flaticon-fast-rewind-button:before { content: "\f106"; }
+.flaticon-right-arrow:before { content: "\f107"; }
+.flaticon-fast-forward-button:before { content: "\f108"; }
+.flaticon-plus:before { content: "\f109"; }
+.flaticon-like-heart-in-circular-button:before { content: "\f10a"; }
+.flaticon-facebook-letter-logo:before { content: "\f10b"; }
+.flaticon-twitter:before { content: "\f10c"; }
+.flaticon-instagram:before { content: "\f10d"; }
+.flaticon-google-plus-symbol:before { content: "\f10e"; }
+.flaticon-message:before { content: "\f10f"; }
+.flaticon-add:before { content: "\f110"; }
+.flaticon-multiply:before { content: "\f111"; }
+.flaticon-stop-button:before { content: "\f112"; }
+.flaticon-twitter-logo-silhouette:before { content: "\f113"; }
+.flaticon-phone:before { content: "\f114"; }
+.flaticon-down-arrow:before { content: "\f115"; }
+.flaticon-arrow-down-sign-to-navigate:before { content: "\f116"; }
+.flaticon-up-arrow:before { content: "\f117"; }
