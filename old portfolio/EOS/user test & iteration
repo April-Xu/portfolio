@@ -1,3 +1,4 @@
+user test
 We conducted three user s of our final application. The main critiques are as follows:
 Increase the amount of support and documentation from the application. Users didn’t know what they were supposed to be doing without extensive explanation and didn’t understand what the lights were supposed to be doing or how they related to friendship.
 Users wanted to be able to directly track their progress with their friends in a meaningful and measurable way. A common denominator in people that we found that would want to use application, such as ours was that they wanted some way to measure their progress directly.
@@ -14,3 +15,6 @@ The first wireframe is basically an archaic design and allows users to place cus
 
 sketch 3
 The landmasses imply the friends and the visual form of progression is hence the increase of landmass size. Two new features are added. One is a radial menu which allows the user to choose their feelings when adding on interactions with friends. The other one is a shake gesture to clear the fog covered on the landmass when some progression has taken place. 
+
+sketch 4
+The size of the landmass will not change but spotlights will be added onto a specific area when a progression happened. The color of the spotlight represents the feeling. When the number of the spotlights exceeds a preset amount, the landmass can be completely illuminated. The process of spotlights “killing” the fog is like discovery of old friends.
