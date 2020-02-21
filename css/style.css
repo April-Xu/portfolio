@@ -1310,3 +1310,25 @@ main.hero-slide .item {
 	margin: 0 20px 0 0;
 	border: none;
 }
+
+.work-section {
+	background:#fcf8f8;
+	padding: 40px;
+	margin: 0 0 20px 0;
+}
+
+.work-intro p span {
+	font-weight: 200;
+}
+
+.work-content p {
+	font-weight: 200;
+}
+
+.work-content p span{
+	font-weight: 500;
+}
+
+.work-content img {
+	margin: 10px 0;
+}
