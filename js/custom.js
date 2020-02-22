@@ -19,8 +19,16 @@ Author:         Company Name
     * Google-Map
     ================================================*/
     (function ($) {
+        scrollToView = function(destination) {
+            document.getElementById(destination).scrollIntoView({
+                block: 'start',
+                inline: 'nearest',
+                behavior: 'smooth'
+            })
+        }
         "use strict";
         var $main_window = $(window);
+
         /*====================================
             preloader js
           ======================================*/
@@ -138,8 +146,19 @@ Author:         Company Name
         $(window).on('scroll', function () {
             if ($(window).scrollTop() > 300) {
                 btn.addClass('show');
+                btn.fadeIn();
+                if ($(window).scrollTop() === $(document).height()-$(window).height() ) {
+                    btn.css("color","white");
+                    btn.css("border-color","white");
+                } else {
+                    btn.css("color","#020323");
+                    btn.css("border-color","#020323");
+                }
             } else {
                 btn.removeClass('show');
+                btn.fadeOut();
+                btn.css("color","#020323");
+                btn.css("border-color","#020323");
             }
         });
         btn.on('click', function (e) {
@@ -147,6 +166,25 @@ Author:         Company Name
             $('html, body').animate({
                 scrollTop: 0
             }, '300');
+        });
+        /*====================================
+            side navigation
+        ======================================*/
+        var sidebar = $('.side-nav');
+        $(window).on('scroll', function () {
+            if ($(window).scrollTop() > 300) {
+                sidebar.addClass('show');
+                sidebar.fadeIn();
+                if ($(window).scrollTop() === $(document).height()-$(window).height() ) {
+                    sidebar.removeClass('show');
+                } else {
+                    sidebar.addClass('show');
+                    sidebar.fadeIn();
+                }
+            } else {
+                sidebar.removeClass('show');
+                sidebar.fadeOut();
+            }
         });
         /*====================================
         partner slider
