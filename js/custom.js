@@ -185,6 +185,16 @@ Author:         Company Name
                 sidebar.removeClass('show');
                 sidebar.fadeOut();
             }
+            // Assign active class to nav links while scolling
+            $('.section-locate').each(function(i) {
+                var rect = this.getBoundingClientRect();
+                var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+                if (!(rect.bottom < 0 || rect.top - viewHeight >= 0)) {
+                    $('.side-nav li').removeClass('nav-active');
+                    console.log(i);
+                    $('.side-nav li').eq(i).addClass('nav-active');
+                }
+            })
         });
         /*====================================
         partner slider

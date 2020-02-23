@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfd3356-5f72-4dd2-a1e6-4b40aff95e54" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eurekas.html" afterPath="$PROJECT_DIR$/eurekas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-back.html" afterPath="$PROJECT_DIR$/index-back.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="eurekas.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eurekas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="338" column="41" lean-forward="false" selection-start-line="338" selection-start-column="41" selection-end-line="338" selection-end-column="41" />
+            <state relative-caret-position="464">
+              <caret line="475" column="44" lean-forward="false" selection-start-line="475" selection-start-column="44" selection-end-line="475" selection-end-column="44" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -36,6 +34,7 @@
                 <element signature="n#style#0;n#h3#0;n#div#1;n#div#6;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#1;n#div#2;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#1;n#div#5;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -44,8 +43,8 @@
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="135">
+              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -56,8 +55,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19620">
-              <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="645">
+              <caret line="1368" column="4" lean-forward="true" selection-start-line="1368" selection-start-column="4" selection-end-line="1368" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -75,7 +74,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>socail</find>
       <find>social</find>
       <find>default</find>
       <find>slider__text</find>
@@ -104,6 +102,7 @@
       <find>logo-i</find>
       <find>footer</find>
       <find>btn-</find>
+      <find>this</find>
       <find>header</find>
     </findStrings>
     <replaceStrings>
@@ -131,8 +130,8 @@
         <option value="$PROJECT_DIR$/work/eurekas.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index-back.html" />
-        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/eurekas.html" />
       </list>
     </option>
@@ -243,12 +242,12 @@
       <option name="presentableId" value="Default" />
       <updated>1581971586653</updated>
       <workItem from="1581971588116" duration="39010000" />
-      <workItem from="1582399556478" duration="5017000" />
+      <workItem from="1582399556478" duration="10182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44027000" />
+    <option name="totallyTimeSpent" value="49192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,6 +306,7 @@
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#6;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#2;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#5;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -451,16 +451,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19620">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="645">
+          <caret line="1368" column="4" lean-forward="true" selection-start-line="1368" selection-start-column="4" selection-end-line="1368" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="135">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -469,8 +469,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eurekas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="338" column="41" lean-forward="false" selection-start-line="338" selection-start-column="41" selection-end-line="338" selection-end-column="41" />
+        <state relative-caret-position="464">
+          <caret line="475" column="44" lean-forward="false" selection-start-line="475" selection-start-column="44" selection-end-line="475" selection-end-column="44" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -482,6 +482,7 @@
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#6;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#2;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#5;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>

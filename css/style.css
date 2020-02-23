@@ -1336,10 +1336,10 @@ main.hero-slide .item {
 
 .side-nav {
 	position: fixed;
-	color: #020323;
+	color: #99aab5;
 	bottom: 40%;
-	right: 2%;
-	text-align: right;
+	right: 3%;
+	text-align: center;
 	font-size: 14px;
 	display: none;
 }
@@ -1364,4 +1364,8 @@ main.hero-slide .item {
 	position: absolute;
 	top: -100px;
 	left: 0;
+}
+
+.nav-active {
+	color: #020323;
 }
