@@ -205,12 +205,6 @@ h4 {
 }
 
 .subtitle span2{
-    background-color: #e0886c;
-    cursor: pointer;
-    color: white;
-}
-
-.subtitle span3 {
     background-color: #e0c06c;
     cursor: pointer;
     color: white;
