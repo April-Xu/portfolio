@@ -38,7 +38,21 @@
 /* ----------------------------------------------------------------
      [ 01 Start Basics ]
 -----------------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap');
+/*@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap');*/
+@font-face {
+	font-family: OpenSans;
+	src: url('../fonts/open-sans/OpenSans-Regular.ttf');
+}
+
+@font-face {
+	font-family: OpenSans-Light;
+	src: url('../fonts/open-sans/OpenSans-Light.ttf');
+}
+
+@font-face {
+	font-family: Oswald;
+	src: url('../fonts/oswald/Oswald-Medium.ttf');
+}
 
 /*----------- Typography -------------*/
 
@@ -58,7 +72,7 @@ body {
 	line-height: 1.5;
 	font-weight: 400;
 	font-size: 16px;
-	font-family: 'Open Sans';
+	font-family: OpenSans;
 }
 
 p {
@@ -66,7 +80,7 @@ p {
 	line-height: 28px;
 	font-weight: 400;
 	color: #1b252c;
-	font-family: 'Open Sans';
+	font-family: OpenSans;
 }
 
 img {
@@ -94,7 +108,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	font-family: 'Open Sans';
+	font-family: OpenSans;
 	font-weight: 700;
 	color: #1b252c;
 }
@@ -107,7 +121,7 @@ h4 a,
 h5 a,
 h6 a {
 	font-weight: inherit;
-	font-family: 'Open Sans';
+	font-family: OpenSans;
 }
 
 h1 {
@@ -187,15 +201,14 @@ h4 {
 }
 
 .index-title span {
-    font-family: 'Oswald';
+    font-family: Oswald;
     font-size: 64pt;
 }
 
 .subtitle {
     text-align:center;
-    font-family: 'Lato';
+    font-family: OpenSans-Light;
     font-size: 18pt;
-    font-weight: lighter;
 }
 
 .subtitle span1{
