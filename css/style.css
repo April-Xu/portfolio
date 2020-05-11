@@ -223,6 +223,10 @@ h4 {
     color: white;
 }
 
+.proj-card {
+	margin-bottom: 20px;
+}
+
 .proj-card img:hover {
     cursor: pointer;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
