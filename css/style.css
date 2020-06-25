@@ -332,7 +332,7 @@ h4 {
 }
 
 .ws-section-spacing {
-	padding: 120px 0 90px;
+	padding: 90px 0 90px;
 	margin-bottom: 5px;
 }
 
@@ -629,7 +629,7 @@ h4 {
 	width: 86px;
 	height: 30px;
 	position: absolute;
-	top: 37px;
+	top: 20px;
 	z-index: 1;
 }
 /*----------------- Main-Slider ------------*/
