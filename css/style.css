@@ -1433,3 +1433,7 @@ main.hero-slide .item {
 .white-header {
 	color: #af9f8c;
 }
+
+section {
+	margin: 0 0 9em 0;
+}
