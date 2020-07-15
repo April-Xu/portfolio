@@ -191,7 +191,7 @@ Author:         Company Name
                 var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
                 if (!(rect.bottom < 0 || rect.top - viewHeight >= 0)) {
                     $('.side-nav li').removeClass('nav-active');
-                    console.log(i);
+                    //console.log(i);
                     $('.side-nav li').eq(i).addClass('nav-active');
                 }
             })
