@@ -20,6 +20,12 @@
     <!-- responsive.css -->
     <link rel="stylesheet" href="css/responsive.css">
 </head>
+<style>
+    a {
+        color: blue;
+        text-decoration-line: underline;
+    }
+</style>
 <body>
 <!-- preloader -->
 <div id="preloader"></div>
@@ -55,7 +61,7 @@
 
 <section>
     <div class="container">
-        <h2>About me</h2>
+        <h2>About me</h2><br>
         <p>I'm an interdisciplinary UX designer and will graduate in August. I study under the
             Human-Computer Interaction Institute here. I am passionate about technology and
             entertainment and specialized in web design & development. Trying out new things is a
@@ -67,7 +73,7 @@
 
 <section>
     <div class="container">
-        <h2>What I hope to learn</h2>
+        <h2>What I hope to learn</h2><br>
         <p>Obviously, how to tell a story using data. But building on that, I'm also interested
             in how to apply my data visualization skills in my design as well as how to tell a
             story using not only data but also other evidence. At the same time, I want to get
@@ -78,11 +84,36 @@
 
 <section>
     <div class="container">
-        <h2>Portfolio</h2>
-        <p>Here's where all of my data visualization will go.</p>
-        <p>Starting with the 1st sketch in class:</p>
-        <img src="images/dataSketch.png" alt="1st data sketch">
-        <iframe src="https://data.oecd.org/chart/61Q0" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Q0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+        <h2>Portfolio</h2><br>
+        <p>Here's where all of my data visualization will go.</p><br>
+        <h3>Warm-up exercise:</h3><br>
+        <img style="width:50%;" src="images/dataSketch.png" alt="1st data sketch">
+        <br><br><br>
+        <h3>Task 1: 3 visualizations of government debt.</h3><br>
+        <p>The following 3 visualizations use the same set of data that comes from
+            <a href="https://data.oecd.org/gga/general-government-debt.htm">OECD</a>.
+            The customized color palatte was inspired by
+            <a href="https://color.adobe.com/zh/search?q=wine">Adobe Color</a>. The bar graph
+            shows the GDP of different countries in 2015 while the gird of lines graph compares
+            the growing trend of Debt-to-GDP ratio of different countries across years. The
+            third data visualization uses box plots to compare the average financial situation
+            of different countries. Although they use the same set of data, different filters
+            and grouping of the data leads to different information. I selected box plots because
+            it can indicate the normalized Debt-to-GDP ratio of individual country. I used a
+            highlight of 100% for ratio to separate countries with positive and negative
+            financial situations. The growing trend across time is not the key information here
+            so it's unnecessary to rank data based on time but instead to make sure the data
+            range is the same.</p>
+        <h4>Government debt bar chart</h4><br>
+        <iframe src="https://data.oecd.org/chart/61Q0" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">
+            <a href="https://data.oecd.org/chart/61Q0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a>
+        </iframe>
+        <br><br><br>
+        <h4>Government grid of line chart</h4><br>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/3191426" data-url="https://flo.uri.sh/visualisation/3191426/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+        <br>
+        <h4>Personalized data visualization</h4><br>
+        <div class="flourish-embed flourish-scatter" data-src="visualisation/3191835" data-url="https://flo.uri.sh/visualisation/3191835/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </div>
 </section>
 <!-- End-Main-section -->
