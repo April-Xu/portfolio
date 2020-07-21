@@ -1437,3 +1437,11 @@ main.hero-slide .item {
 section {
 	margin: 0 0 9em 0;
 }
+
+#eurekas img {
+	margin-bottom: 80px;
+}
+
+.fade-content > * {
+	transition: ease all .75s;
+}
