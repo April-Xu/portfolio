@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dfd3356-5f72-4dd2-a1e6-4b40aff95e54" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about-slice1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coart-slice1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coart-slice2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas-slice2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/work-model.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/playground-slice4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/turkey-slice1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/turkey-slice3.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eurekas.html" afterPath="$PROJECT_DIR$/eurekas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-    </list>
+    <list default="true" id="2dfd3356-5f72-4dd2-a1e6-4b40aff95e54" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/eurekas.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -73,8 +60,8 @@
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="302" column="3" lean-forward="false" selection-start-line="302" selection-start-column="3" selection-end-line="302" selection-end-column="3" />
+            <state relative-caret-position="458">
+              <caret line="284" column="0" lean-forward="true" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -316,12 +303,12 @@
       <workItem from="1594865754921" duration="2650000" />
       <workItem from="1594871127099" duration="87000" />
       <workItem from="1595013378454" duration="15000" />
-      <workItem from="1595288087734" duration="1893000" />
+      <workItem from="1595288087734" duration="2159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92304000" />
+    <option name="totallyTimeSpent" value="92570000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,7 +630,7 @@
     <entry file="file://$PROJECT_DIR$/eurekas.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -653,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="302" column="3" lean-forward="false" selection-start-line="302" selection-start-column="3" selection-end-line="302" selection-end-column="3" />
+        <state relative-caret-position="458">
+          <caret line="284" column="0" lean-forward="true" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
           <folding />
         </state>
       </provider>
