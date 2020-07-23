@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfd3356-5f72-4dd2-a1e6-4b40aff95e54" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 13.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataviz.html" afterPath="$PROJECT_DIR$/dataviz.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="dataviz.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataviz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="130" column="69" lean-forward="false" selection-start-line="130" selection-start-column="69" selection-end-line="130" selection-end-column="69" />
+            <state relative-caret-position="188">
+              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -31,7 +30,7 @@
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1595472845270" expanded="true" signature="2140:2325" ph="..." />
+                <marker date="1595473018416" expanded="true" signature="2142:2327" ph="..." />
               </folding>
             </state>
           </provider>
@@ -307,12 +306,12 @@
       <workItem from="1594871127099" duration="87000" />
       <workItem from="1595013378454" duration="15000" />
       <workItem from="1595288087734" duration="2159000" />
-      <workItem from="1595471394678" duration="1456000" />
+      <workItem from="1595471394678" duration="1559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94026000" />
+    <option name="totallyTimeSpent" value="94129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -634,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataviz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="130" column="69" lean-forward="false" selection-start-line="130" selection-start-column="69" selection-end-line="130" selection-end-column="69" />
+        <state relative-caret-position="188">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -645,7 +644,7 @@
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1595472845270" expanded="true" signature="2140:2325" ph="..." />
+            <marker date="1595473018416" expanded="true" signature="2142:2327" ph="..." />
           </folding>
         </state>
       </provider>
