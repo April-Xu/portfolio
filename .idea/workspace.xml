@@ -19,8 +19,8 @@
       <file leaf-file-name="dataviz.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataviz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="91" column="69" lean-forward="false" selection-start-line="91" selection-start-column="69" selection-end-line="91" selection-end-column="69" />
+            <state relative-caret-position="450">
+              <caret line="61" column="81" lean-forward="false" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -30,7 +30,7 @@
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1596755926012" expanded="true" signature="2142:2571" ph="..." />
+                <marker date="1596756142283" expanded="true" signature="2142:2587" ph="..." />
               </folding>
             </state>
           </provider>
@@ -340,12 +340,12 @@
       <workItem from="1596470654164" duration="272000" />
       <workItem from="1596472621247" duration="339000" />
       <workItem from="1596473222735" duration="170000" />
-      <workItem from="1596750098744" duration="3698000" />
+      <workItem from="1596750098744" duration="3794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107311000" />
+    <option name="totallyTimeSpent" value="107407000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -677,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataviz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="91" column="69" lean-forward="false" selection-start-line="91" selection-start-column="69" selection-end-line="91" selection-end-column="69" />
+        <state relative-caret-position="450">
+          <caret line="61" column="81" lean-forward="false" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -688,7 +688,7 @@
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1596755926012" expanded="true" signature="2142:2571" ph="..." />
+            <marker date="1596756142283" expanded="true" signature="2142:2587" ph="..." />
           </folding>
         </state>
       </provider>
