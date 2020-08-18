@@ -2,7 +2,327 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfd3356-5f72-4dd2-a1e6-4b40aff95e54" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataviz.html" afterPath="$PROJECT_DIR$/dataviz.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dataSketch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eurekas/Slice 9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/bg &amp; problem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/eos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/final 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/final 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/final 3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/interaction-sketch-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/intro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/sketch 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/sketch 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/sketch 4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/solution.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/EOS/user test &amp; iteration" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/about" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/apartsa/intro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/apartsa/main faeture 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/apartsa/main feature 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/apartsa/main feature 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/bg &amp; probelm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/convertion path.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/participation path.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/persona.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/web 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/web 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/web 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/work 1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/work 2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old portfolio/codemao/work 3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/single-blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/css/documenter_style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/images/r-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/images/site-footer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/images/site-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/images/site-slider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/js/jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/js/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/js/jquery.scrollTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/assets/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/css/documenter_style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/images/r-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/images/site-footer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/images/site-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/images/site-slider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/js/jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/js/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/js/jquery.scrollTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/assets/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Documentation/v2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/backup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/Flaticon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/Flaticon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/Flaticon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/Flaticon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/Flaticon.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/_flaticon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/flaticon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/font/flaticon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/lity.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/fonts/slick.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/fonts/slick.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/fonts/slick.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/fonts/slick.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Flying-Bird-P.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Flying-Bird-P2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Image-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/about-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/amazon-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/apple-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/bg-fixed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/cisco-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/fav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/google-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/logo-wht.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/pic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/sony-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/images/testi-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/imagesloaded.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/isotope.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/jquery.1.12.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/lity.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/js/tilt.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/portfolio-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v1/single-blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/asset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/all.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/audio.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/backup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/flaticon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/Flaticon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/Flaticon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/Flaticon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/Flaticon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/Flaticon.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/_flaticon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/flaticon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/font/flaticon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/lity.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/css/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-black-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-black-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-blackitalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-blackitalic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-bold-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-bolditalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-bolditalic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-italic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-italic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/playfairdisplay-regular-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-black-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-black-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-blackitalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-blackitalic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-bold-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-bolditalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-bolditalic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extrabold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extrabold-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extrabolditalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extrabolditalic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extralight-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extralight-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extralightitalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-extralightitalic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-italic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-italic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-light-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-lightitalic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-lightitalic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-medium-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/raleway-medium-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/slick.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/slick.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/slick.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/fonts/slick.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/Untitled-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/about-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/bg-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/bg-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/bg-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/big-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/big-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/blk-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/blog-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/blog-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/blog-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/c-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/c-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/c-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/c-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/cb-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/cheak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/f3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/g1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/g2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/g2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/g3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/g4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/g5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/git-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/git-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/git-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/git-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/hero-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/m-card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/m-card2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/m-card3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/main-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/new-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/playlist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/port9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/post1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/rec-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/rec-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/rec-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/rewind.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/s-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/s-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/s-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/s-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/ser-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/single-play-wht.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/single-play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/single-stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/usset-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/vid-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/vid-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/vid-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/volume-off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/images/volume-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/jquery.1.12.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/lity.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/musicplayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/js/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/product-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/shop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-brands-400.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-brands-400.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-brands-400.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-brands-400.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-brands-400.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-regular-400.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-regular-400.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-regular-400.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-regular-400.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-regular-400.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-solid-900.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-solid-900.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-solid-900.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-solid-900.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Vutix-Client/v2/webfonts/fa-solid-900.woff2" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,72 +336,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dataviz.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dataviz.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1596756173921" expanded="true" signature="2142:2588" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataStory.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataStory.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="119" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="1415" column="0" lean-forward="false" selection-start-line="1396" selection-start-column="0" selection-end-line="1415" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="playground.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/playground.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="67" column="38" lean-forward="false" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eurekas.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eurekas.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1395">
-              <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+            <state relative-caret-position="593">
+              <caret line="93" column="44" lean-forward="true" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -179,7 +438,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -201,7 +460,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,11 +475,6 @@
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -229,6 +482,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,12 +594,15 @@
       <workItem from="1596470654164" duration="272000" />
       <workItem from="1596472621247" duration="339000" />
       <workItem from="1596473222735" duration="170000" />
-      <workItem from="1596750098744" duration="3833000" />
+      <workItem from="1596750098744" duration="3878000" />
+      <workItem from="1597003728604" duration="21000" />
+      <workItem from="1597250574312" duration="389000" />
+      <workItem from="1597508001516" duration="479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107446000" />
+    <option name="totallyTimeSpent" value="108380000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,12 +620,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -588,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="95" column="80" lean-forward="false" selection-start-line="95" selection-start-column="80" selection-end-line="95" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/Hot Metal PC Build/HTML/6IPMC.html" />
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -624,25 +874,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataviz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="69" column="23" lean-forward="false" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="773">
           <caret line="1415" column="0" lean-forward="false" selection-start-line="1396" selection-start-column="0" selection-end-line="1415" selection-end-column="0" />
           <folding />
         </state>
@@ -659,37 +923,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataStory.html">
+    <entry file="file://$PROJECT_DIR$/eurekas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="119" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="773">
+          <caret line="94" column="21" lean-forward="false" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataviz.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1596756173921" expanded="true" signature="2142:2588" ph="..." />
-          </folding>
+        <state relative-caret-position="593">
+          <caret line="93" column="44" lean-forward="true" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
