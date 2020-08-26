@@ -1,121 +1,285 @@
 <!DOCTYPE html>
-<html lang="zxx">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Miaojun's Portfolio</title>
+    <title>Miaojun Xu</title>
     <link rel="icon" href="images/portrait.png" type="image/gif">
-    <!-- bootstrap.min.css -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- animate.css -->
-    <link rel="stylesheet" href="css/animate.min.css">
-    <!-- flaticon.css -->
-    <link rel="stylesheet" href="css/font/flaticon.css">
-    <!-- slickslider.css -->
-    <link rel="stylesheet" href="css/slick.css">
-    <link rel="stylesheet" href="css/slick-theme.css">
-    <!-- lity-popup.css -->
-    <link rel="stylesheet" href="css/lity.min.css">
-    <!-- style.css -->
-    <link rel="stylesheet" href="css/style.css">
-    <!-- responsive.css -->
-    <link rel="stylesheet" href="css/responsive.css">
-    <!--<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">-->
-    <!--<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald" />-->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap-grid.min.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap-reboot.min.css" type="text/css">
+    <link rel="stylesheet" href="css/animate.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.theme.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.transitions.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/style_new.css" type="text/css">
+    <link rel="stylesheet" href="css/custom-font.css" type="text/css">
+    <link rel="stylesheet" href="css/fullpage.css" type="text/css">
+    <link rel="stylesheet" href="css/hover-min.css" type="text/css">
+    <link rel="stylesheet" href="css/tuesday.min.css" type="text/css">
+
+    <style type="text/css">
+        #rightRect {
+            background: #333333;
+            position: absolute;
+            top: 0;
+            left: 68%;
+            width: 32%;
+            height: 100%;
+            z-index: 0;
+        }
+
+        .moreBtn {
+            cursor: pointer;
+            font-weight: 700 !important;
+
+        }
+
+        #fullpage {
+            top: 0;
+        }
+
+        /*product mockup images*/
+        #section0 img {
+            width: 30%;
+            position: absolute;
+            top: 20%;
+            right: -17%;
+        }
+
+        #section1 img, #section2 img, #section3 img {
+            width: 50%;
+            position: absolute;
+            top: 25%;
+            right: -25%;
+        }
+
+        #section4 img {
+            width: 70%;
+            position: absolute;
+            top: 15%;
+            right: -40%;
+        }
+
+        .hvr-grow:hover {
+            cursor: pointer;
+        }
+
+        /*background numbers*/
+        #section1 .numberDisplay, #section2 .numberDisplay {
+            width: 30% !important;
+            top: 5% !important;
+            right: auto !important;
+            left: 30%;
+        }
+
+        #section3 .numberDisplay, #section4 .numberDisplay {
+            width: 30% !important;
+            top: 5% !important;
+            right: auto !important;
+            left: 45%;
+        }
+
+        /*slider fade effect*/
+        #fullpage .section h1 {
+            text-align: left;
+            font-family: 'Open Sans' !important;
+            font-size: 3.5em;
+            color: black;
+            padding-right: 40%;
+            position: relative;
+            top: 0;
+            left: 10%;
+        }
+
+        #fullpage .section h2 {
+            text-align: left;
+            font-family: 'Open Sans' !important;
+            color: black;
+            font-size: 2em;
+            font-weight: 300;
+            padding-right: 45%;
+            position: relative;
+            left: 10%;
+        }
+
+        #fullpage .section p {
+            text-align: left;
+            font-family: 'Open Sans' !important;
+            color: black;
+            font-size: 1em;
+            font-weight: 300;
+            padding-right: 45%;
+            position: relative;
+            left: 10%;
+        }
+
+        .fullpage-wrapper {
+            width: 100% !important;
+            -webkit-transform: none !important;
+            transform: none !important;
+        }
+
+        .fullpage-wrapper .fp-section {
+            width: 68% !important;
+            position: absolute;
+            left: 0;
+            top: 0;
+            visibility: hidden;
+            opacity: 0;
+            z-index: 0;
+            -webkit-transition: all .7s ease-in-out;
+            transition: all .7s ease-in-out;
+        }
+
+        .fullpage-wrapper .fp-section.active {
+            visibility: visible;
+            opacity: 1;
+            z-index: 1;
+        }
+
+        .fullpage-wrapper .fp-section .fp-slidesContainer {
+            width: 68% !important;
+            -webkit-transform: none !important;
+            transform: none !important;
+        }
+
+        .fullpage-wrapper .fp-section .fp-slidesContainer .fp-slide {
+            width: 68% !important;
+            position: absolute;
+            left: 0;
+            top: 0;
+            visibility: hidden;
+            opacity: 0;
+            z-index: 0;
+            -webkit-transition: all .7s ease-in-out;
+            transition: all .7s ease-in-out;
+        }
+
+        .fullpage-wrapper .fp-section .fp-slidesContainer .fp-slide.active {
+            visibility: visible;
+            opacity: 1;
+            z-index: 1;
+        }
+
+    </style>
+
 </head>
-
 <body>
-<!-- preloader -->
-<div id="preloader"></div>
-<!-- Header-area -->
-<header style="height: 70px;">
-    <div class="container">
-        <div class="row justify-content-end" style="height: 70px;">
-            <div class="col-lg-4 col-md-4 col-xs-4">
-                <div class="logo-img-wapper">
-                    <a href="index.html"> <img src="images/Logo.png" alt="logo"></a>
-                </div>
-            </div>
-            <div class="col-lg-8 col-md-8 col-xs-8 row" style="text-align: center; margin-top:
-            20px;">
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"><a href="index.html">Workspace</a></div>
-                <div class="col-lg-2 col-md-2"><a href="playground.html">Playground</a></div>
-                <div class="col-lg-2 col-md-2"><a href="images/Miaojun-Xu-Resume.pdf"target = "_blank">Resume</a></div>
-                <div class="col-lg-2 col-md-2"><a href="about.html">About</a></div>
 
-            </div>
+<div class="page-overlay">
+    <div class="preloader-wrap">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
         </div>
     </div>
-</header>
-<!-- Main-section -->
-    <div class="container">
-        <img src="images/index.png">
-    </div>
-<!-- End-Main-section -->
+</div>
 
-<!-- Portfolio-section -->
-<section class="ws-section-spacing bg-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <!--<div class="assist-div"></div>-->
-                <img src="images/product.png">
-            </div>
-        </div>
-        <div class="row proj-card">
-            <a href="eurekas.html"><img src="images/eurekas.png"></a>
-        </div>
-        <div class="row proj-card">
-            <a href="coart.html"><img src="images/coart.png"></a>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="assist-div"></div>
-                <img src="images/game.png">
-            </div>
-        </div>
-        <div class="row proj-card" style="position: relative; top: -40px;">
-            <a href="chocolate.html"><img src="images/chocolate.png"></a>
-        </div>
-        <div class="row proj-card">
-            <a href="turkey.html"><img src="images/turkey.png"></a>
-        </div>
-    </div>
-</section>
-<!-- End-portfolio-section-->
+<a href="#" id="logo"><img src="images/Logo.png" alt="logo"></a>
+<div id="hamburger" class="">
+    <span class="line"></span>
+    <span class="line"></span>
+    <span class="line"></span>
+</div>
 
-<!-- Footer -->
-<footer style="background-color: #1b252c; height: 150px; margin-top: 100px;">
-    <div class="container"  style="padding-top: 50px;">
-        <div class="row align-items-center">
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
-            <div class="col-lg-6 col-md-6 col-xs-6"><img src="images/footer.png"></div>
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
+<div id="navigation" class="animated tdHingeFlipOut">
+    <div><a href="#">Home</a>
+    </div>
+    <div><a href="playground.html">Playground</a>
+    </div>
+    <div><a href="images/Miaojun-Xu-Resume.pdf"target = "_blank">Resume</a>
+    </div>
+    <div><a href="about.html">Fun Facts</a>
+    </div>
+</div>
+
+
+<div id="fullpage">
+    <div class="section" id="section0">
+        <h1>Hi. This is Miaojun Xu.</h1><br>
+        <h2>UX designer with curiosity and joy</h2><br>
+        <p>Master student @ HCII, Carnegie Mellon University</p>
+        <p>I'm looking for full-time opportunities and would happy to connect with you
+            <b>: )</b></p>
+        <img src="images/homepage/1.png">
+        <div href="#section-features" class="scroll-to">
+            <span class="mouse">
+                 <span class="scroll"></span>
+            </span>
         </div>
     </div>
-</footer>
-<!-- End-Footer -->
-<!-- Top-to-bottom -->
-<a href="#" id="btn-to-top"><i class="flaticon-up-arrow"></i></a>
-<!-- Jquery.min.js-->
-<script src="js/jquery.1.12.4.js"></script>
-<!--bootstrap.min.js-->
+    <div class="section" id="section1">
+        <h1>PineCones</h1><br><br>
+        <p>Starred problem set feature in an online learning platrform for K12 students</p>
+        <p>An opportunity to learn from mistakes, this time more intelligiently</p>
+        <p class="moreBtn" onclick="jumpToPage('section1', 'pinecones')">Learn More →</p>
+        <img class="hvr-grow" onclick="jumpToPage('section1', 'pinecones')" src="images/homepage/2.png">
+        <img class="numberDisplay" src="images/homepage/01.png">
+        <div href="#section-features" class="scroll-to">
+            <span class="mouse">
+                 <span class="scroll"></span>
+            </span>
+        </div>
+    </div>
+    <div class="section" id="section2">
+        <h1>EureKAS</h1><br><br>
+        <p>Web-based reflection tool for K12 students</p>
+        <p>Reflection in project-based learning can be rewarding, integrated, and natural</p>
+        <p class="moreBtn" onclick="jumpToPage('section2', 'eurekas')">Learn More →</p>
+        <img class="hvr-grow" onclick="jumpToPage('section2', 'eurekas')" src="images/homepage/3.png">
+        <img class="numberDisplay" src="images/homepage/02.png">
+        <div href="#section-features" class="scroll-to">
+            <span class="mouse">
+                 <span class="scroll"></span>
+            </span>
+        </div>
+    </div>
+    <div class="section" id="section3">
+        <h1>Chocolate Therapy</h1><br><br>
+        <p>Therapeutic web-based game about emotion exploration</p>
+        <p>Various thematic levels task players to shave a chocolate and uncover the
+            protagonist’s mental mysteries</p>
+        <p class="moreBtn" onclick="jumpToPage('section3', 'chocolate')">Learn More →</p>
+        <img class="hvr-grow" onclick="jumpToPage('section3', 'chocolate')" src="images/homepage/4.png">
+        <img class="numberDisplay" src="images/homepage/03.png">
+        <div href="#section-features" class="scroll-to">
+            <span class="mouse">
+                 <span class="scroll"></span>
+            </span>
+        </div>
+    </div>
+    <div class="section" id="section4">
+        <h1>Save Hobo Turkey</h1><br><br>
+        <p>Family board game in holidays</p>
+        <p>Promote ntentional, generous charitable giving</p>
+        <p class="moreBtn" onclick="jumpToPage('section4', 'turkey')">Learn More →</p>
+        <img class="hvr-grow" onclick="jumpToPage('section4', 'turkey')" src="images/homepage/5.png">
+        <img class="numberDisplay" src="images/homepage/04.png">
+    </div>
+</div>
+
+<div id="rightRect"></div>
+
+
+<!-- Javascript Files
+================================================== -->
+<script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="js/popper.min.js"></script>
-<!--slickslider.min.js-->
-<script src="js/slick.min.js"></script>
-<!-- isotope.pkgd.min.js -->
-<script src="js/isotope.pkgd.min.js"></script>
-<script src="js/imagesloaded.js"></script>
-<!-- tilt.jquery.js -->
-<script src="js/tilt.jquery.js"></script>
-<!-- lity-popup.js -->
-<script src="js/lity.min.js"></script>
-<!-- custom.js -->
+<script src="js/jquery.isotope.min.js"></script>
+<script src="js/easing.js"></script>
+<script src="js/owl.carousel.js"></script>
+<script src="js/jquery.countTo.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/enquire.min.js"></script>
+<script src="js/jquery.stellar.min.js"></script>
+<script src="js/jquery.plugin.js"></script>
+<script src="js/jquery.easeScroll.js"></script>
+<script src="js/fullpage.js"></script>
 <script src="js/custom.js"></script>
+<script src="js/validation.js"></script>
+
 </body>
 </html>
