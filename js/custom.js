@@ -11,10 +11,12 @@
     }
 
     jumpToPage = function(section, destination) {
-        $('#'+section).addClass('animated');
-        $('#'+section).addClass('tdFadeOutRight');
-        $('#rightRect').addClass('animated');
-        $('#rightRect').addClass('tdFadeOutRight');
+        $('#'+section).toggleClass('animated');
+        $('#'+section).toggleClass('tdFadeOutRight');
+        $('#'+section).toggleClass('tdFadeInRight');
+        $('#rightRect').toggleClass('animated');
+        $('#rightRect').toggleClass('tdFadeOutRight');
+        $('#rightRect').toggleClass('tdFadeInRight');
         $('#hamburger').toggleClass('dark');
         $('#navigation').toggleClass('dark');
         window.location.href = destination+".html";
