@@ -10136,7 +10136,7 @@ img {
     position: fixed;
     background: rgba(255, 255, 255, 0.5);
     border-radius: 0 2% 2% 0;
-    bottom: 25%;
+    top: 20%;
     left: 0;
     text-align: left;
     font-family: "Open Sans";
@@ -10306,6 +10306,6 @@ html,body {
     color: #333333;
 }
 
-#navigation.dark div:hover a {
+#navigation.dark a:hover {
     color: white;
 }
