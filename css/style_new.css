@@ -9944,6 +9944,10 @@ img {
     color: #84A6BF;
 }
 
+.primaryYellow {
+    color: #AF9F8C;
+}
+
 .fullWidth {
     width: 100%;
 }
@@ -10113,12 +10117,12 @@ img {
     padding-left: 80px;
 }
 
-.customizemb {
-    margin-bottom: 225px;
+.quote .col-lg-5 {
+    padding: 0 30px;
 }
 
-.customizepb {
-    padding-bottom: 225px;
+.customizemb {
+    margin-bottom: 200px;
 }
 
 #section-iteration7 .dreyBody {
