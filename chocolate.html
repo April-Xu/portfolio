@@ -20,63 +20,279 @@
     <link rel="stylesheet" href="css/fullpage.css" type="text/css">
     <link rel="stylesheet" href="css/hover-min.css" type="text/css">
     <link rel="stylesheet" href="css/tuesday.min.css" type="text/css">
+
+    <style type="text/css">
+        #section-idea img {
+            width: 100px;
+        }
+    </style>
 </head>
 
 <body>
-<!-- preloader -->
-<div id="preloader"></div>
-<!-- Header-area -->
-<header class="white-header" style="height: 70px; z-index:999;">
-    <div class="container">
-        <div class="row justify-content-end" style="height: 70px;">
-            <div class="col-lg-4 col-md-4 col-xs-4">
-                <div class="logo-img-wapper">
-                    <a href="index.html"> <img src="images/Logo-white.png" alt="logo"></a>
+
+<div id="wrapper">
+
+    <div class="page-overlay">
+        <div class="preloader-wrap">
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- content begin -->
+    <div id="content" class="no-bottom no-top">
+
+        <a href="index.html" id="logo"><img src="images/Logo.png" alt="logo"></a>
+
+        <div id="hamburger" class="dark">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+
+        <div id="navigation" class="animated tdHingeFlipOut dark">
+            <div><a href="#">Home</a>
+            </div>
+            <div><a href="playground.html">Playground</a>
+            </div>
+            <div><a href="images/Miaojun-Xu-Resume.pdf"target = "_blank">Resume</a>
+            </div>
+            <div><a href="about.html">Fun Facts</a>
+            </div>
+        </div>
+
+        <!-- section begin -->
+        <section id="section-intro" class="no-top no-bottom">
+            <img class="fullWidth" src="images/chocolate/1.png">
+        </section>
+        <!-- section close -->
+
+        <!-- section begin -->
+        <section id="section-bg">
+            <div class="container dreyContainer">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyTitle">Overview</div>
+                    <div class="text-center dreyBody">Duration: 2 weeks | Passion Project | Teammates: Henry Chang, Nabeeha Fatima
+                    </div>
+                    <div class="text-center dreyBody">I led game idea brainstorming sessions, overhauled the game story, designed 95% of the game assets and finished 6 levels out of 7, conducted 10+ rounds of iterations with play testings.
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-8 col-md-8 col-xs-8 row" style="text-align: center; margin-top:
-            20px; z-index:999;">
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"><a href="index.html">Workspace</a></div>
-                <div class="col-lg-2 col-md-2"><a href="playground.html">Playground</a></div>
-                <div class="col-lg-2 col-md-2"><a href="images/Miaojun-Xu-Resume.pdf"target = "_blank">Resume</a></div>
-                <div class="col-lg-2 col-md-2"><a href="about.html">About</a></div>
+        </section>
+        <!-- section close -->
 
+        <!-- section begin -->
+        <section id="section-problem" class="customizemb">
+            <div class="container dreyContainer">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyTitle">Problem Space</div>
+                    <div class="text-center dreyHeading">How Might We help players sympathize the protagonist with different emotions through performing in-game actions ?
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section close -->
+
+        <!-- section begin -->
+        <div class="container dreyContainer section-locate">
+            <div class="dreyWrapper">
+                <div class="text-center dreyTitle">Solution</div>
             </div>
         </div>
+        <section id="section-prototype" class="mt0 blackbg">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <figure class="picframe invert transparent rounded hover-shadow">
+                                    <span class="overlay-v">
+										<span class="v-center">
+											<span>
+												<a class="video-play-button"
+                                                   href="https://april-xu.github.io/LMD-prototype/" target="_blank">
+													<span></span>
+												</a>
+											</span>
+										</span>
+									</span>
+                            <img src="images/chocolate/videoCover.png" class="img-fullwidth" alt="">
+                        </figure>
+                    </div>
+
+                    <div class="col-md-5 offset-md-1">
+                        <div class="dreyHeadingBold"><span class="dreyBold primaryYellow">SOLUTION
+                        </span><br>Forrest Gump (movie) - “Life is like a box of chocolates, you never know what you might get!”
+                        </div>
+                        <div class="dreyBody">What would you do if you lost all your memories of
+                            the person you love and suddenly find out something that is related
+                            to themselves? Follow our protagonist to explore the mysteries
+                            chocolate box sent by his wife.<br><br>
+                            <span class="primaryYellow">*Please use a full-screen laptop webpage to
+                                have the best experience.</span>
+                        </div>
+                    </div>
+
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </section>
+        <!-- section close -->
+
+        <!-- section begin -->
+        <section id="section-tricks">
+            <div class="container dreyContainer">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyHeading">Game tricks</div>
+                    <div class="text-center dreyBody">To experience different levels without passing
+                        every one of them, you can enter the url followed by the level names: “https://april-xu.github.io/chocolate-therapy/[level name here].html”. For example, if you want to go to level “Surprise”, enter ”https://april-xu.github.io/chocolate-therapy/Surprise.html”.
+                    </div>
+                    <div class="prototypeFeature">
+                        <div class="successWrapper">
+                            <div class="dreyBold">Levels available - timestamp</div>
+                            <div class="grayrect"></div><div class="dreyBody">Joy - the daughter was born</div>
+                            <div class="grayrect"></div><div class="dreyBody">Sadness - broke girlfriends’ heart</div>
+                            <div class="grayrect"></div><div class="dreyBody">Nervous - before the baby was born</div>
+                            <div class="grayrect"></div><div class="dreyBody">Shy - the first time they met</div>
+                            <div class="grayrect"></div><div class="dreyBody">Anger - caught a fight</div>
+                            <div class="grayrect"></div><div class="dreyBody">Anticipation - exchanged gifts</div>
+                            <div class="grayrect"></div><div class="dreyBody">Surprise - the truth</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section close -->
+
+        <!-- section begin -->
+        <section id="section-story">
+            <div class="container dreyContainer">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyHeading">The story (spoil alert!)</div>
+                    <div class="text-center dreyBody">This is a story about Watson and his wife,
+                        Anna. They used to be a happy couple with a lovely daughter until Anna
+                        got into a car accident. Watson was too grieved to handle the fact that
+                        Anna was gone; in shock, he lost all of his memories with Anna.<br><br>
+                        Years passed and Watson received a box of chocolate with a nand - <b>that’s
+                            where the game starts</b>. Through eating the chocolates, Watson gets to
+                            experience different emotions that are associated with some life
+                        moments he had spent with Anna. He wants to make a chocolate for Anna
+                        in exchange but the heart-shaped chocolate can never be completed and
+                        keeps cracking. That’s the moment he recalls the fact that she is gone
+                                forever and finally moves on with the memory of their stories.
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section close -->
+
+        <!-- section begin -->
+        <section id="section-idea">
+            <div class="container dreyContainer">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyHeading">Behind the scenes</div>
+                    <div class="text-center dreyBody">We had 3 rounds of brainstorming sessions
+                        starting from <b>150+ ideas</b>. The ideas list was then refined and narrowed
+                        down during the later sessions where we wanted to explore the theme of
+                        emotions, colors, and holes.<br><br>
+                        After some research into the theory of emotion and inspired by the emotionshop
+                        from Entertainment and Technology Center in Carnegie Mellon University, we
+                        then proceeded to think of designing <b>different level ideas and
+                            how they can be used to bring players with a “hollow heart” to a
+                            land of colorful emotions.</b></div>
+                    <div class="row">
+                        <div class="col-lg-1 col-md-1"></div>
+                        <div class="col-lg-10 col-md-10">
+                            <div class="row">
+                                <div class="col-lg-4 col-md-4 text-center">
+                                    <img class="mt60" src="images/chocolate/iconEmotion.png">
+                                    <div class="text-center dreyBold mt30 mb0 primaryYellow">EMOTION
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 text-center">
+                                    <img class="mt60" src="images/chocolate/iconHole.png">
+                                    <div class="text-center dreyBold mt30 mb0 primaryYellow">HOLE</div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 text-center">
+                                    <img class="mt60" src="images/chocolate/iconColor.png">
+                                    <div class="text-center dreyBold mt30 mb0 primaryYellow">COLOR</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-1 col-md-1"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section close -->
+
+        <!-- section begin -->
+        <section id="section-takeaways">
+            <div class="container dreyContainer">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyTitle">Takeaways</div>
+                    <div class="text-center dreyBold primaryYellow">LET PLAYERS HAVE FUN</div>
+                    <div class="text-center dreyHeading">Design surprising and engaging interactions</div>
+                    <div class="text-center dreyBody">The use of sound and feedback creates
+                        different problem-solving interactions at each level, which are related
+                        to the unique emotions we want players to experience with. By doing this,
+                        players get surprises at each level and thus gain deeper understanding
+                        of the story.<br><br>
+                        For example, in the “Nervous” level, we use chocolate to simulate a bomb
+                        and ask players to it by clicking wires in correct order with a ticking
+                        clock. The scenario in the protagonist’s memory is waiting for his daughter’s birth.
+                    </div>
+                </div>
+            </div>
+            <div class="container dreyContainer mt100">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyBold primaryYellow">TELL THE BEST STORY</div>
+                    <div class="text-center dreyHeading">Craft and connect the plots in a immersive way</div>
+                    <div class="text-center dreyBody">We intended to not spoil the story until the end, so we need to be very careful about when to reveal a piece of story and what to present to the players. Our initial assumption was that players are able to understand the story by reading some dialogues. But it turns out unsuccessful because players have no familarity with the idea behind the game so they need more context and hints.
+                        <br><br>
+                        Our final solution was to compile the story into different scenarios in each level explicitly telling players what’s happening now and what memories are being recalled. By doing this, the game is able to have the players experience, think, and feel from the perspective of the protagonist.
+                    </div>
+                </div>
+            </div>
+            <div class="container dreyContainer mt100">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyBold primaryYellow">KEEP IT CONCISE</div>
+                    <div class="text-center dreyHeading">Use simple but intuitive assets to avoid confusion</div>
+                    <div class="text-center dreyBody">As the importance of aesthetic values in digital interface design, the assets design holds the key to initial understanding of the game. Due to the time limitation, we weren’t able to implement the game in 3D, which could be more intuitive to shape the chocolates. However, the flat design with text explanation also worked well explaning the  contexts.
+                        <br><br>
+                        The insight I got from asset design is to perform actual playtests to uncover different understanding to avoid potential misunderstanding of the interface, which would be disastrous to the gaming experience.
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section close -->
+
+        <!-- section begin -->
+        <section id="section-footer" class="blackbg">
+            <div class="container dreyContainer">
+                <div class="dreyWrapper">
+                    <div class="text-center dreyTitle"><a href="turkey.html" class="hvr-grow">Hey,
+                        this is the end.<br>Want to see more? Check out another story →</a></div>
+                    <div class="text-center dreyBody primaryYellow">FUN FACT - My first name is
+                        pronounced like "Meow June". I wish I can be soft and loving, just like a
+                        cat in summer.</div>
+                </div>
+            </div>
+        </section>
+        <!-- section close -->
+
     </div>
-</header>
-<!-- Main-section -->
-<div style="text-align:center; width:calc(100vw); position:relative; top:-70px;">
-    <a href="https://april-xu.github.io/chocolate-therapy/" target="_blank">
-        <img src="images/chocolate-slice1.png">
-    </a>
-    <div style="margin:auto; width:83%;">
-        <img src="images/chocolate-slice2.png">
-        <a href="https://april-xu.github.io/chocolate-therapy/" target="_blank">
-            <img src="images/chocolate-btn.png" style="width:30%; margin-top:30px;"></a>
-        <img src="images/chocolate-slice3.png">
+    <!-- content close -->
+
+    <a href="#" id="back-to-top"></a>
+
+    <div id="preloader">
+        <div class="preloader1"></div>
     </div>
+
 </div>
-<!-- End-Main-section -->
 
-<!-- Portfolio-section -->
-<!-- End-portfolio-section-->
-
-<!-- Footer -->
-<footer style="background-color: #1b252c; height: 150px; margin-top: 100px;">
-    <div class="container"  style="padding-top: 50px;">
-        <div class="row align-items-center">
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
-            <div class="col-lg-6 col-md-6 col-xs-6"><img src="images/footer.png"></div>
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
-        </div>
-    </div>
-</footer>
-<!-- End-Footer -->
-<!-- Top-to-bottom -->
-<a href="#" id="btn-to-top"><i class="flaticon-up-arrow"></i></a>
 
 <!-- Javascript Files
 ================================================== -->
