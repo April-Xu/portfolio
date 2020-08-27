@@ -1920,9 +1920,9 @@ a:hover {
     color: #888;
 }
 
-.de_light a:hover {
-    color: #555;
-}
+/*.de_light a:hover {*/
+    /*color: #555;*/
+/*}*/
 
 .btn-line,
 a.btn-line {
@@ -10196,6 +10196,10 @@ img {
     position: relative;
     top: -150px;
     left: 100%;
+}
+
+a:hover {
+    text-decoration: none !important;
 }
 
 /* --------------------------------------------------
