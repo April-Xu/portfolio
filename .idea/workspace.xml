@@ -86,17 +86,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinecones.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pinecones.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pinecones.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="212">
+              <caret line="195" column="38" lean-forward="false" selection-start-line="195" selection-start-column="38" selection-end-line="195" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style_new.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style_new.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style_new.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-103">
@@ -122,7 +122,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>prototyping</find>
       <find>black</find>
       <find>.pl</find>
       <find>gray</find>
@@ -152,6 +151,7 @@
       <find>#homepage</find>
       <find>mouse</find>
       <find>save</find>
+      <find>avenir</find>
     </findStrings>
     <replaceStrings>
       <replace>social</replace>
@@ -192,7 +192,6 @@
         <option value="$PROJECT_DIR$/css/fullpage.css" />
         <option value="$PROJECT_DIR$/js/fullpage.js" />
         <option value="$PROJECT_DIR$/css/tuesday.min.css" />
-        <option value="$PROJECT_DIR$/pinecones.html" />
         <option value="$PROJECT_DIR$/homepage.html" />
         <option value="$PROJECT_DIR$/turkey.html" />
         <option value="$PROJECT_DIR$/about.html" />
@@ -201,6 +200,7 @@
         <option value="$PROJECT_DIR$/playground.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/css/style_new.css" />
+        <option value="$PROJECT_DIR$/pinecones.html" />
       </list>
     </option>
   </component>
@@ -373,12 +373,12 @@
       <workItem from="1597717970684" duration="26000" />
       <workItem from="1597774322849" duration="1101000" />
       <workItem from="1597869433733" duration="124000" />
-      <workItem from="1598114651133" duration="29774000" />
+      <workItem from="1598114651133" duration="29990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139405000" />
+    <option name="totallyTimeSpent" value="139621000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -686,14 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinecones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style_new.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-103">
@@ -702,6 +694,14 @@
             <marker date="1598499702804" expanded="true" signature="14500:14535" ph="{...}" />
             <marker date="1598499702804" expanded="true" signature="114745:114937" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinecones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="195" column="38" lean-forward="false" selection-start-line="195" selection-start-column="38" selection-end-line="195" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
