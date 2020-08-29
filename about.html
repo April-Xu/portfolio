@@ -20,73 +20,201 @@
     <link rel="stylesheet" href="css/fullpage.css" type="text/css">
     <link rel="stylesheet" href="css/hover-min.css" type="text/css">
     <link rel="stylesheet" href="css/tuesday.min.css" type="text/css">
+
+    <style type="text/css">
+        html, body {
+            height: 100%;
+            background: #333333;
+        }
+
+        #bg {
+            width: 100%;
+            background: #333333;
+        }
+
+        #leftSection {
+            width: 68%;
+            height: 100%;
+            background: #333333;
+        }
+
+        #pic {
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+            left: -50px;
+            background: #333333;
+        }
+
+        #rightSection {
+            background: #333333;
+            position: absolute;
+            top: 0;
+            left: 68%;
+            width: 32%;
+            height: 100%;
+            z-index: 0;
+            padding: 10% 20px 0 40px;
+            color: #ffffff;
+        }
+
+        .icon {
+            width: 30px;
+        }
+
+        .intro {
+            position: relative;
+            top: -20px;
+            margin: 0 0 0 50px !important;
+        }
+
+        .social {
+            width: 30px;
+        }
+
+        #credit {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+        }
+
+        .dreyBold, .dreyHeading {
+            margin-bottom: 0 !important;
+        }
+
+        .dreyTitle {
+            font-size: 28px !important;
+            margin-bottom: 20px !important;
+        }
+
+        .dreyBody {
+            margin-bottom: 20px;
+        }
+
+        #credit a {
+            text-decoration: underline;
+            color: #000000;
+        }
+
+        .inlinehref {
+            text-decoration: underline;
+            color: #ffffff !important;
+        }
+
+        .row a {
+            color: #ffffff;
+        }
+
+        .selfintro {
+            font-family: "Open Sans";
+            font-weight: 300;
+            font-size: 12px;
+            margin: 30px 0 50px 0;
+        }
+
+        @media screen and (max-width: 1024px) {
+            .selfintro {
+                display: none;
+            }
+        }
+
+        #navigation {
+            background: rgba(0, 0, 0, 0.8);
+        }
+    </style>
 </head>
 
 <body>
-<!-- preloader -->
-<div id="preloader"></div>
-<!-- Header-area -->
-<header style="height: 70px; z-index:999;">
-    <div class="container">
-        <div class="row justify-content-end" style="height: 70px;">
-            <div class="col-lg-4 col-md-4 col-xs-4">
-                <div class="logo-img-wapper">
-                    <a href="index.html"> <img src="images/Logo.png" alt="logo"></a>
-                </div>
-            </div>
-            <div class="col-lg-8 col-md-8 col-xs-8 row" style="text-align: center; margin-top:
-            20px; z-index:999;">
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"><a href="index.html">Workspace</a></div>
-                <div class="col-lg-2 col-md-2"><a href="playground.html">Playground</a></div>
-                <div class="col-lg-2 col-md-2"><a href="images/Miaojun-Xu-Resume.pdf"target = "_blank">Resume</a></div>
-                <div class="col-lg-2 col-md-2"><a href="about.html">About</a></div>
+
+<div id="bg">
+    <div class="page-overlay">
+        <div class="preloader-wrap">
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
             </div>
         </div>
     </div>
-</header>
-<!-- Main-section -->
-<div class="container" style="text-align:center; width:calc(100vw); position:relative; top:-70px;">
-    <img src="images/about-slice1.png" style="width:100%;">
-    <a href="mailto:xumiaojun49@gmail.com" target="_blank">
-        <img src="images/about-btn.png" style="width:30%;">
-    </a>
-    <img src="images/about-slice2.png" style="width:100%;">
-    <div class="row">
-        <div class="col-lg-4 col-md-4 col-xs-4"></div>
-        <div class="col-lg-4 col-md-4 col-xs-4" style="text-align:center;">
-            <a href="https://medium.com/@xumiaojun49" target="_blank">
-                <img src="images/medium.png" style="width:20%">
-            </a>
-            <a href="https://www.linkedin.com/in/xumiaojun" target="_blank">
-                <img src="images/linkedin.png" style="width:20%">
-            </a>
-            <a href="https://github.com/April-Xu" target="_blank">
-                <img src="images/github.png" style="width:20%">
-            </a>
-        </div>
-        <div class="col-lg-4 col-md-4 col-xs-4"></div>
+
+    <div id="hamburger" class="">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
     </div>
+
+    <div id="navigation" class="animated tdHingeFlipOut">
+        <a href="index.html"><div>Home</div></a>
+        <a href="playground.html"><div>Playground</div></a>
+        <a href="images/Miaojun-Xu-Resume.pdf"target = "_blank"><div>Resume</div></a>
+        <a href="about.html"><div>Fun Facts</div></a>
+    </div>
+
+    <img id="pic" src="images/about/pic.jpg">
+
+    <div id="leftSection">
+        <div id="credit" class="dreyBold hvr-grow">Photo credit to
+            <a href="https://unsplash.com/@yuhandu" target="_blank">@ Yuhan Du</a>
+        </div>
+    </div>
+
+    <div id="rightSection">
+        <div class="dreyTitle">Hi, nice to meet you : )</div>
+        <div class="dreyBody mb20">
+            My name is Miaojun Xu 徐淼珺.<br><br>
+        </div>
+        <div class="hvr-icon-pulse-grow">
+            <img class="hvr-icon icon" src="images/about/iconHeart.png" >
+            <div class="dreyBody intro">
+                Design | Coding | Video Games | Hotpot<br>
+            </div>
+        </div>
+        <div class="hvr-icon-pulse-grow">
+            <img class="hvr-icon icon" src="images/about/iconActivity.png" >
+            <div class="dreyBody intro">
+                Travel | Sleep | Handicraft<br>
+            </div>
+        </div>
+        <div class="hvr-icon-pulse-grow">
+            <img class="hvr-icon icon" src="images/about/iconBulb.png" >
+            <div class="dreyBody intro">
+                I have 10.5 fingers. A gift left when I was born : )<br>
+            </div>
+        </div>
+        <div class="selfintro">
+            I see myself as a creative but logical designer who is passionate about technology,
+            education, and entertainment. I'm currently a new graduate from <a
+                href="https://metals.hcii.cmu.edu/" class="inlinehref">the METALS program of
+                Carnegie Mellon University</a> and seeking for full-time positions. Talk with me!
+        </div>
+        <div class="row text-center mt40">
+            <div class="col-3">
+                <a href="https://github.com/April-Xu" target="_blank" class="hvr-icon-bob">
+                    <img src="images/about/iconGithub.png" class="social hvr-icon mb10">
+                    <div class="dreyBody">GitHub</div>
+                </a>
+            </div>
+            <div class="col-3">
+                <a href="https://www.linkedin.com/in/xumiaojun" target="_blank" class="hvr-icon-bob">
+                    <img src="images/about/iconLinkedin.png" class="social hvr-icon mb10">
+                    <div class="dreyBody">Linkedin</div>
+                </a>
+            </div>
+            <div class="col-3">
+                <a href="https://medium.com/@xumiaojun49" target="_blank" class="hvr-icon-bob">
+                    <img src="images/about/iconMedium.png" class="social hvr-icon mb10">
+                    <div class="dreyBody">Medium</div>
+                </a>
+            </div>
+            <div class="col-3">
+                <a href="images/about/wechat.png" class="image-popup hvr-icon-bob">
+                    <img src="images/about/iconWeChat.png" class="social hvr-icon mb10">
+                    <div class="dreyBody">WeChat</div>
+                </a>
+            </div>
+        </div>
+
 </div>
-<!-- End-Main-section -->
-
-<!-- Portfolio-section -->
-<!-- End-portfolio-section-->
-
-<!-- Footer -->
-<footer style="background-color: #1b252c; height: 150px; margin-top: 100px;">
-    <div class="container"  style="padding-top: 50px;">
-        <div class="row align-items-center">
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
-            <div class="col-lg-6 col-md-6 col-xs-6"><img src="images/footer.png"></div>
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
-        </div>
-    </div>
-</footer>
-<!-- End-Footer -->
-<!-- Top-to-bottom -->
-<a href="#" id="btn-to-top"><i class="flaticon-up-arrow"></i></a>
 
 <!-- Javascript Files
 ================================================== -->
