@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Miaojun's Portfolio</title>
+    <title>Miaojun's Playground</title>
     <link rel="icon" href="images/portrait.png" type="image/gif">
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/bootstrap-grid.min.css" type="text/css">
@@ -20,80 +20,130 @@
     <link rel="stylesheet" href="css/fullpage.css" type="text/css">
     <link rel="stylesheet" href="css/hover-min.css" type="text/css">
     <link rel="stylesheet" href="css/tuesday.min.css" type="text/css">
+
+    <style type="text/css">
+        html, body {
+            background: #333333;
+        }
+
+        #navigation {
+            background: rgba(0, 0, 0, 0.8);
+        }
+
+        #title {
+            font-family: "EB Garamond";
+            font-size: 36px;
+            position: absolute;
+            top: 100px;
+            left: 7%;
+            color: #ffffff;
+        }
+
+        #title .hvr-icon {
+            position: relative;
+            left: 10%;
+            width: 60px;
+        }
+
+        #projects {
+            position: absolute;
+            top: 130px;
+            left: 7%;
+            width: 86%;
+            font-family: "Open Sans";
+            color: #ffffff;
+        }
+
+        #projects .heading {
+            margin: 90px 0 30px 0;
+            font-size: 28px;
+            font-weight: 300;
+        }
+
+        #projects .row {
+            padding: 30px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+        }
+
+        #projects .col-4 {
+            font-size: 24px;
+            font-weight: 500;
+            vertical-align: middle;
+            line-height: 2em;
+        }
+
+        #projects .col-6 {
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .hvr-shutter-out-horizontal:before {
+            background: #638197;
+        }
+
+        .hvr-shutter-out-horizontal {
+            background: #333333;
+            display: flex !important;
+        }
+
+    </style>
 </head>
 
 <body>
-<!-- preloader -->
-<div id="preloader"></div>
-<!-- Header-area -->
-<header style="height: 70px; z-index:999;">
-    <div class="container">
-        <div class="row justify-content-end" style="height: 70px;">
-            <div class="col-lg-4 col-md-4 col-xs-4">
-                <div class="logo-img-wapper">
-                    <a href="index.html"> <img src="images/Logo.png" alt="logo"></a>
-                </div>
-            </div>
-            <div class="col-lg-8 col-md-8 col-xs-8 row" style="text-align: center; margin-top:
-            20px; z-index:999;">
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"></div>
-                <div class="col-lg-2 col-md-2"><a href="index.html">Workspace</a></div>
-                <div class="col-lg-2 col-md-2"><a href="playground.html">Playground</a></div>
-                <div class="col-lg-2 col-md-2"><a href="images/Miaojun-Xu-Resume.pdf"target = "_blank">Resume</a></div>
-                <div class="col-lg-2 col-md-2"><a href="about.html">About</a></div>
 
-            </div>
+<div class="page-overlay">
+    <div class="preloader-wrap">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
         </div>
     </div>
-</header>
-<!-- Main-section -->
-<div class="container">
-    <img src="images/playground-slice1.png">
 </div>
-<!-- End-Main-section -->
 
-<!-- Portfolio-section -->
-<section class="ws-section-spacing bg-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <img src="images/playground-slice2.png" style="margin:auto; margin-bottom:40px;">
-            </div>
-        </div>
-        <div class="row proj-card">
-            <a href="https://xd.adobe.com/view/0e62977a-2c76-4e64-80f1-12ccb5129cc0-5b31/screen/850dfbce-960f-4ebf-843e-3cbc1effdffa/Watch-movies">
-                <img src="images/familyplay.png"></a>
-        </div>
-        <div class="row proj-card">
-            <a href="https://xd.adobe.com/view/3d224445-d582-4f8c-736f-9618c18322d6-4b13/">
-                <img src="images/moments.png"></a>
-        </div>
-    </div>
-    <div class="container">
-        <img src="images/logoDesign.png">
-    </div>
-    <div class="container">
-        <img src="images/playground-slice3.png">
-    </div>
-    <img src="images/playground-slice4.png" style="width:100%;">
-</section>
+<div id="hamburger" class="">
+    <span class="line"></span>
+    <span class="line"></span>
+    <span class="line"></span>
+</div>
 
-<!-- End-portfolio-section-->
+<div id="navigation" class="animated tdHingeFlipOut">
+    <a href="index.html"><div>Home</div></a>
+    <a href="playground.html"><div>Playground</div></a>
+    <a href="images/Miaojun-Xu-Resume.pdf"target = "_blank"><div>Resume</div></a>
+    <a href="about.html"><div>Fun Facts</div></a>
+</div>
 
-<!-- Footer -->
-<footer style="background-color: #1b252c; height: 150px; margin-top: 100px;">
-    <div class="container"  style="padding-top: 50px;">
-        <div class="row align-items-center">
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
-            <div class="col-lg-6 col-md-6 col-xs-6"><img src="images/footer.png"></div>
-            <div class="col-lg-3 col-md-3 col-xs-3"></div>
+<div id="title" class="hvr-icon-float-away">
+    Playground
+    <img class="hvr-icon" src="images/playground/iconBallon.png">
+</div>
+
+
+
+<div id="projects">
+    <div class="heading">Passion Projects</div>
+    <a class="row hvr-shutter-out-horizontal"
+       href="https://xd.adobe.com/view/3d224445-d582-4f8c-736f-9618c18322d6-4b13/" target="_blank">
+        <div class="col-4">FamilyPlay</div>
+        <div class="col-2"></div>
+        <div class="col-6">
+            A mobile app that helps parents with finding appropriate skill-based games for their
+            children and monitor their growth at the same time.
         </div>
-    </div>
-</footer>
-<!-- End-Footer -->
-<!-- Top-to-bottom -->
-<a href="#" id="btn-to-top"><i class="flaticon-up-arrow"></i></a>
+    </a>
+    <a class="row hvr-shutter-out-horizontal"
+       href="https://xd.adobe.com/view/0e62977a-2c76-4e64-80f1-12ccb5129cc0-5b31/screen/850dfbce-960f-4ebf-843e-3cbc1effdffa/Watch-movies" target="_blank">
+        <div class="col-4">Moments</div>
+        <div class="col-2"></div>
+        <div class="col-6">
+            A web application that build a video watching online community by sharing favourite
+            clips/lines/notes around.
+        </div>
+    </a>
+    <div class="heading">Cute Little Life Moments</div>
+</div>
+
 
 <!-- Javascript Files
 ================================================== -->
