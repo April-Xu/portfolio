@@ -86,6 +86,41 @@
             display: flex !important;
         }
 
+        #pics {
+            position: absolute;
+            top: 100%;
+            width: 100%;
+        }
+
+        #pics img {
+            width: 100%;
+        }
+
+        .mouse {
+            position: absolute;
+            z-index: 10000;
+            width: 22px;
+            height: 42px;
+            bottom: 40px;
+            left: auto !important;
+            right: 7%;
+            margin-left: -12px;
+            border-radius: 15px;
+            border: 1px solid #BBCDD8;
+            -webkit-animation: intro 1s;
+            animation: intro 1s;
+        }
+
+        .scroll {
+            display: block;
+            width: 3px;
+            height: 3px;
+            margin: 6px auto;
+            border-radius: 4px;
+            background: #BBCDD8;
+            -webkit-animation: finger 1s infinite;
+            animation: finger 1s infinite;
+        }
     </style>
 </head>
 
@@ -129,7 +164,7 @@
         <div class="col-2"></div>
         <div class="col-6">
             A mobile app that helps parents with finding appropriate skill-based games for their
-            children and monitor their growth at the same time.
+            children and monitor their growth.
         </div>
     </a>
     <a class="row hvr-shutter-out-horizontal"
@@ -141,9 +176,37 @@
             clips/lines/notes around.
         </div>
     </a>
+    <a class="row hvr-shutter-out-horizontal"
+       href="https://xd.adobe.com/view/0e62977a-2c76-4e64-80f1-12ccb5129cc0-5b31/screen/850dfbce-960f-4ebf-843e-3cbc1effdffa/Watch-movies" target="_blank">
+        <div class="col-4">Loneliness under COVID19</div>
+        <div class="col-2"></div>
+        <div class="col-6">
+            A data story about the worsened situation of the loneliness epidemic with coronavirus
+            and how can we deal with it.
+        </div>
+    </a>
     <div class="heading">Cute Little Life Moments</div>
 </div>
 
+
+<span class="mouse">
+     <span class="scroll"></span>
+</span>
+
+
+<div id="pics">
+    <img src="images/playground/1.png">
+    <img src="images/playground/2.png">
+    <img src="images/playground/3.png">
+    <img src="images/playground/4.png">
+    <img src="images/playground/5.png">
+    <img src="images/playground/6.png">
+    <img src="images/playground/7.png">
+    <img src="images/playground/8.png">
+    <img src="images/playground/9.png">
+</div>
+
+<a href="#" id="back-to-top"></a>
 
 <!-- Javascript Files
 ================================================== -->
