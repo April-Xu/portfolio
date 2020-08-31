@@ -67,6 +67,14 @@
 			'#F8F6F3',
 			'#F0F2EE',
 			'#F4F1F6'
+		],
+		navigation: true,
+        navigationTooltips: [
+        	'Introduction',
+			'01 PineCones',
+			'02 EureKAS',
+			'03 Chocolate Therapy',
+			'04 Save Hobo Turkey'
 		]
 	});
 
