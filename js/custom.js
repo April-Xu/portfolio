@@ -59,22 +59,25 @@
 			'page2',
 			'page3',
 			'page4',
-			'page5'
+			'page5',
+			'page6'
 		],
 		sectionsColor: [
 			'#ffffff',
 			'#EFF2F5',
 			'#F8F6F3',
 			'#F0F2EE',
-			'#F4F1F6'
+			'#F4F1F6',
+			'#F0F7F9'
 		],
 		navigation: true,
         navigationTooltips: [
         	'Introduction',
 			'01 PineCones',
 			'02 EureKAS',
+			'03 FamilyPlay',
 			'03 Chocolate Therapy',
-			'04 Save Hobo Turkey'
+			'05 Save Hobo Turkey'
 		]
 	});
 

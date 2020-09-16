@@ -43,22 +43,33 @@
             top: 0;
         }
 
-        /*product mockup images*/
-        #section0 img {
-            width: 30%;
-            position: absolute;
-            top: 20%;
-            right: -17%;
+        .section a {
+            color: #000000;
         }
 
-        #section1 img, #section2 img, #section3 img {
+        /*product mockup images*/
+        #section0 img {
+            width: 80%;
+            position: absolute;
+            top: 25%;
+            right: -27%;
+        }
+
+        #section1 img, #section2 img, #section4 img {
             width: 50%;
             position: absolute;
             top: 25%;
             right: -25%;
         }
 
-        #section4 img {
+        #section3 img {
+            width: 30%;
+            position: absolute;
+            top: 10%;
+            right: -15%;
+        }
+
+        #section5 img {
             width: 70%;
             position: absolute;
             top: 15%;
@@ -70,14 +81,14 @@
         }
 
         /*background numbers*/
-        #section1 .numberDisplay, #section2 .numberDisplay {
+        #section1 .numberDisplay, #section2 .numberDisplay, #section3 .numberDisplay {
             width: 30% !important;
             top: 5% !important;
             right: auto !important;
             left: 30%;
         }
 
-        #section3 .numberDisplay, #section4 .numberDisplay {
+        #section4 .numberDisplay, #section5 .numberDisplay {
             width: 30% !important;
             top: 5% !important;
             right: auto !important;
@@ -236,21 +247,31 @@
         <img class="numberDisplay" src="images/homepage/02.png">
     </div>
     <div class="section" id="section3">
+        <h1>FamilyPlay</h1><br><br>
+        <p>Mobile app that allows parent to find approprate games for children</p>
+        <p>Find age-appropriate games, play with your family, and monitor children's growth at the
+            same time (Adobe x Activision Creative Jam)</p>
+        <p class="moreBtn hvr-forward"><a href="https://xd.adobe.com/view/3d224445-d582-4f8c-736f-9618c18322d6-4b13/" target="_blank">Learn More →</a></p>
+        <a href="https://xd.adobe.com/view/3d224445-d582-4f8c-736f-9618c18322d6-4b13/"
+           target="_blank"><img class="hvr-grow" src="images/homepage/4.png"></a>
+        <img class="numberDisplay" src="images/homepage/03.png">
+    </div>
+    <div class="section" id="section4">
         <h1>Chocolate Therapy</h1><br><br>
         <p>Therapeutic web-based game about emotion exploration</p>
         <p>Various thematic levels task players to shave a chocolate and uncover the
             protagonist’s mental mysteries</p>
-        <p class="moreBtn hvr-forward" onclick="jumpToPage('section3', 'chocolate')">Learn More →</p>
-        <img class="hvr-grow" onclick="jumpToPage('section3', 'chocolate')" src="images/homepage/4.png">
-        <img class="numberDisplay" src="images/homepage/03.png">
+        <p class="moreBtn hvr-forward" onclick="jumpToPage('section4', 'chocolate')">Learn More →</p>
+        <img class="hvr-grow" onclick="jumpToPage('section4', 'chocolate')" src="images/homepage/5.png">
+        <img class="numberDisplay" src="images/homepage/04.png">
     </div>
-    <div class="section" id="section4">
+    <div class="section" id="section5">
         <h1>Save Hobo Turkey</h1><br><br>
         <p>Family board game in holidays</p>
         <p>Promote intentional, generous charitable giving</p>
-        <p class="moreBtn hvr-forward" onclick="jumpToPage('section4', 'turkey')">Learn More →</p>
-        <img class="hvr-grow" onclick="jumpToPage('section4', 'turkey')" src="images/homepage/5.png">
-        <img class="numberDisplay" src="images/homepage/04.png">
+        <p class="moreBtn hvr-forward" onclick="jumpToPage('section5', 'turkey')">Learn More →</p>
+        <img class="hvr-grow" onclick="jumpToPage('section5', 'turkey')" src="images/homepage/6.png">
+        <img class="numberDisplay" src="images/homepage/05.png">
     </div>
 </div>
 
