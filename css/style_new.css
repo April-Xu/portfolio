@@ -7793,7 +7793,7 @@ section.bg-grey {
     bottom: -40px;
 }
 
-#back-to-top:before {
+#back-to-top::before {
     font-family: "FontAwesome";
     font-size: 14px;
     content: "\f176";
