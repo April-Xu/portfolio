@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3750">
-              <caret line="250" column="82" lean-forward="true" selection-start-line="250" selection-start-column="82" selection-end-line="250" selection-end-column="82" />
+            <state relative-caret-position="15">
+              <caret line="250" column="82" lean-forward="false" selection-start-line="250" selection-start-column="82" selection-end-line="250" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -27,21 +27,21 @@
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="597" column="21" lean-forward="false" selection-start-line="597" selection-start-column="16" selection-end-line="597" selection-end-column="21" />
+            <state relative-caret-position="353">
+              <caret line="613" column="27" lean-forward="false" selection-start-line="613" selection-start-column="27" selection-end-line="613" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style_new.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style_new.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style_new.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="7801" column="16" lean-forward="true" selection-start-line="7801" selection-start-column="16" selection-end-line="7801" selection-end-column="16" />
+            <state relative-caret-position="422">
+              <caret line="10319" column="1" lean-forward="true" selection-start-line="10319" selection-start-column="1" selection-end-line="10319" selection-end-column="1" />
               <folding>
-                <marker date="1600376885673" expanded="true" signature="16128:16163" ph="{...}" />
-                <marker date="1600376885673" expanded="true" signature="31641:31669" ph="{...}" />
+                <marker date="1600381059781" expanded="true" signature="16128:16163" ph="{...}" />
+                <marker date="1600381059781" expanded="true" signature="31641:31669" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,38 +50,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1882">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chocolate.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chocolate.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="turkey.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/turkey.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="90" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pinecones.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinecones.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="90" lean-forward="false" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+            <state relative-caret-position="15">
+              <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -103,11 +73,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eurekas.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="chocolate.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chocolate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="292" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="turkey.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/turkey.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="190" column="10" lean-forward="false" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pinecones.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinecones.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="791" column="10" lean-forward="false" selection-start-line="791" selection-start-column="10" selection-end-line="791" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eurekas.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eurekas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="429" column="10" lean-forward="false" selection-start-line="429" selection-start-column="10" selection-end-line="429" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -126,9 +126,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>primaryYellow</find>
-      <find>primaryyell</find>
-      <find>primaryyellow</find>
       <find>navig</find>
       <find>side-</find>
       <find>home</find>
@@ -154,8 +151,11 @@
       <find>@media</find>
       <find>back-</find>
       <find>back-to-top</find>
-      <find>back-to</find>
       <find>back</find>
+      <find>hambur</find>
+      <find>back-to</find>
+      <find>naviga</find>
+      <find>hamburg</find>
     </findStrings>
     <replaceStrings>
       <replace>social</replace>
@@ -198,11 +198,11 @@
         <option value="$PROJECT_DIR$/js/fullpage.js" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/playground.html" />
-        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/chocolate.html" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/css/style_new.css" />
         <option value="$PROJECT_DIR$/turkey.html" />
-        <option value="$PROJECT_DIR$/chocolate.html" />
         <option value="$PROJECT_DIR$/pinecones.html" />
         <option value="$PROJECT_DIR$/eurekas.html" />
       </list>
@@ -214,7 +214,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -236,6 +236,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,8 +286,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,12 +416,13 @@
       <workItem from="1600144572329" duration="97000" />
       <workItem from="1600201936216" duration="339000" />
       <workItem from="1600286374881" duration="2544000" />
-      <workItem from="1600375944914" duration="779000" />
+      <workItem from="1600375944914" duration="845000" />
+      <workItem from="1600380164484" duration="932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177448000" />
+    <option name="totallyTimeSpent" value="178446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,40 +659,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3750">
-          <caret line="250" column="82" lean-forward="true" selection-start-line="250" selection-start-column="82" selection-end-line="250" selection-end-column="82" />
+        <state relative-caret-position="15">
+          <caret line="250" column="82" lean-forward="false" selection-start-line="250" selection-start-column="82" selection-end-line="250" selection-end-column="82" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="597" column="21" lean-forward="false" selection-start-line="597" selection-start-column="16" selection-end-line="597" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/turkey.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chocolate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinecones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="90" lean-forward="false" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+        <state relative-caret-position="15">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -710,30 +687,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1882">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style_new.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="7801" column="16" lean-forward="true" selection-start-line="7801" selection-start-column="16" selection-end-line="7801" selection-end-column="16" />
+        <state relative-caret-position="422">
+          <caret line="10319" column="1" lean-forward="true" selection-start-line="10319" selection-start-column="1" selection-end-line="10319" selection-end-column="1" />
           <folding>
-            <marker date="1600376885673" expanded="true" signature="16128:16163" ph="{...}" />
-            <marker date="1600376885673" expanded="true" signature="31641:31669" ph="{...}" />
+            <marker date="1600381059781" expanded="true" signature="16128:16163" ph="{...}" />
+            <marker date="1600381059781" expanded="true" signature="31641:31669" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="613" column="27" lean-forward="false" selection-start-line="613" selection-start-column="27" selection-end-line="613" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chocolate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="292" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turkey.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="190" column="10" lean-forward="false" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinecones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="791" column="10" lean-forward="false" selection-start-line="791" selection-start-column="10" selection-end-line="791" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="429" column="10" lean-forward="false" selection-start-line="429" selection-start-column="10" selection-end-line="429" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>

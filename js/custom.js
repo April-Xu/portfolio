@@ -88,6 +88,13 @@
         $(this).toggleClass('active');
     });
 
+    $('#hamburger-btm').on('click', function() {
+        $('#navigation').toggleClass('active');
+        $('#navigation').toggleClass('tdHingeFlipOut');
+        $('#navigation').toggleClass('tdHingeFlipIn');
+        $(this).toggleClass('active');
+    });
+
 	/* --------------------------------------------------
 	 * header | style
 	 * --------------------------------------------------*/
@@ -597,11 +604,14 @@
 		if (scrollTop > scrollTrigger) {
 			$('#back-to-top').addClass('show');
 			$('#back-to-top').removeClass('hide');
+            $('#hamburger-btm').addClass('show');
+            $('#hamburger-btm').removeClass('hide');
 			t = 1;
 		}
 		
 		if (scrollTop < scrollTrigger && t==1) {
-			$('#back-to-top').addClass('hide');
+			$('#hamburger-btm').addClass('hide');
+            $('#back-to-top').addClass('hide');
 		}
 		
 		$('#back-to-top').on('click', function(e) {
