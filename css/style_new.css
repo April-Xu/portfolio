@@ -9979,24 +9979,6 @@ img {
     width: 100%;
 }
 
-.teampic {
-    background-size: 100% 100%;
-    margin: 0 auto;
-    background: url("../images/3.1.png");
-    transition: .2s;
-}
-
-.teampic::after {
-    content: "";
-    display: block;
-    /* this padding equals height/width of the image */
-    padding-bottom: 44%;
-}
-
-.teampic:hover {
-    background: url("../images/3.2.png");
-}
-
 .dreyWrapper {
     width: 830px;
 }
@@ -10017,58 +9999,6 @@ img {
 
 .featureIntro {
     padding-top: 12%;
-}
-
-#section-research .owl-carousel .owl-item img{
-    display: block;
-    height: 510px;
-    width: auto;
-}
-
-#section-research .owl-carousel.owl-drag .owl-item{
-    width: unset !important;
-    margin-right: 10px !important;
-}
-
-#section-expert .owl-carousel .owl-item img{
-    display: block;
-    height: 450px;
-    width: auto;
-}
-
-#section-expert .owl-carousel.owl-drag .owl-item{
-    width: unset !important;
-    margin-right: 100px !important;
-}
-
-#section-user .owl-carousel .owl-item img {
-    display: block;
-    height: 550px;
-    width: auto;
-}
-
-#section-user .owl-carousel.owl-drag .owl-item {
-    width: unset !important;
-    margin-right: 30px !important;
-}
-
-#section-challenges .feature-box-style-1 .info {
-    background: linear-gradient(255.54deg, #356C8D 6.33%, #BBCDD8 165.98%), #C4C4C4 !important;
-    color: #ffffff;
-}
-
-#section-challenges .feature-box-style-1 {
-    padding-left: 40px;
-    padding-right: 40px;
-}
-
-#section-challenges .feature-box-style-1 .info{
-    left: 0;
-}
-
-#section-challenges .feature-box-style-1 .dreyBody {
-    display:table-cell;
-    vertical-align:middle;
 }
 
 #section-solution .dreyWrapper {
@@ -10100,24 +10030,6 @@ img {
     background: #c4c4c4;
     position: relative;
     top: 15px;
-}
-
-.featurepic {
-    margin: 50px 0 50px 0;
-    background-size: 100% 100%;
-    background: url("../images/pinecones/12.1.png");
-    transition: .2s;
-}
-
-.featurepic::after {
-    content: "";
-    display: block;
-    /* this padding equals height/width of the image */
-    padding-bottom: 112%;
-}
-
-.featurepic:hover {
-    background: url("../images/pinecones/12.2.png");
 }
 
 .quote {

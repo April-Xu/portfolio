@@ -19,6 +19,103 @@
     <link rel="stylesheet" href="css/tuesday.min.css" type="text/css">
     <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.css" type="text/css">
 
+    <style type="text/css">
+        .challenges img {
+            width: 7%;
+        }
+
+        .challenges .col-lg-4 {
+            padding: 60px 40px 0 40px;
+        }
+
+        .teampic {
+            background-size: 100% 100%;
+            margin: 0 auto;
+            background: url("../images/3.1.png");
+            transition: .2s;
+        }
+
+        .teampic::after {
+            content: "";
+            display: block;
+            /* this padding equals height/width of the image */
+            padding-bottom: 44%;
+        }
+
+        .teampic:hover {
+            background: url("../images/3.2.png");
+        }
+
+        #section-research .owl-carousel .owl-item img{
+            display: block;
+            height: 510px;
+            width: auto;
+        }
+
+        #section-research .owl-carousel.owl-drag .owl-item{
+            width: unset !important;
+            margin-right: 10px !important;
+        }
+
+        #section-expert .owl-carousel .owl-item img{
+            display: block;
+            height: 450px;
+            width: auto;
+        }
+
+        #section-expert .owl-carousel.owl-drag .owl-item{
+            width: unset !important;
+            margin-right: 100px !important;
+        }
+
+        #section-user .owl-carousel .owl-item img {
+            display: block;
+            height: 550px;
+            width: auto;
+        }
+
+        #section-user .owl-carousel.owl-drag .owl-item {
+            width: unset !important;
+            margin-right: 30px !important;
+        }
+
+        #section-challenges .feature-box-style-1 .info {
+            background: linear-gradient(255.54deg, #356C8D 6.33%, #BBCDD8 165.98%), #C4C4C4 !important;
+            color: #ffffff;
+        }
+
+        #section-challenges .feature-box-style-1 {
+            padding-left: 40px;
+            padding-right: 40px;
+        }
+
+        #section-challenges .feature-box-style-1 .info{
+            left: 0;
+        }
+
+        #section-challenges .feature-box-style-1 .dreyBody {
+            display:table-cell;
+            vertical-align:middle;
+        }
+
+        .featurepic {
+            margin: 50px 0 50px 0;
+            background-size: 100% 100%;
+            background: url("../images/pinecones/12.1.png");
+            transition: .2s;
+        }
+
+        .featurepic::after {
+            content: "";
+            display: block;
+            /* this padding equals height/width of the image */
+            padding-bottom: 112%;
+        }
+
+        .featurepic:hover {
+            background: url("../images/pinecones/12.2.png");
+        }
+    </style>
 </head>
 
 <body>
@@ -104,7 +201,7 @@
                 <div class="text-center dreyTitle">Solution</div>
             </div>
         </div>
-        <section id="section-video" class="mt0 blackbg">
+        <section id="section-video" class="mt0 blackbg section-locate">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6">
@@ -263,7 +360,7 @@
                                 Literature review<br>
                                 Competitive analysis
                             </div>
-                            <img class="arrow" src="images/pinecones/arrow.png">
+                            <img class="arrow" src="images/pinecones/arrow-right.png">
                         </div>
                         <div class="pl50 col-3">
                             <div class="dreyHeading">
@@ -273,7 +370,7 @@
                                 Know students<br>
                                 Know teachers
                             </div>
-                            <img class="arrow" src="images/pinecones/arrow.png">
+                            <img class="arrow" src="images/pinecones/arrow-right.png">
                         </div>
                         <div class="pl50 col-3">
                             <div class="dreyHeading">
@@ -282,7 +379,7 @@
                             <div class="dreyBody">HMW statement<br>
                                 Speed-dating
                             </div>
-                            <img class="arrow pt30" src="images/pinecones/arrow.png">
+                            <img class="arrow pt30" src="images/pinecones/arrow-right.png">
                         </div>
                         <div class="pl50 col-3">
                             <div class="dreyHeading">
@@ -300,147 +397,16 @@
         <!-- section close -->
 
         <!-- section begin -->
-        <section id="section-scope">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyHeading">We identified Mistake-Analysis Related Study as our main focus</div>
-                </div>
-            </div>
-            <img class="fullWidth mt80" src="images/pinecones/4.png">
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-research">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyTitle">Research</div>
-                    <div class="text-center dreyBold pb40 pimaryBlue">PRELIMINARY RESEARCH</div>
-                </div>
-            </div>
-            <div id="research-carousel" class="owl-carousel owl-theme">
-
-                <!-- gallery item -->
-                <div class="sq-item">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/5.1.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-                <!-- gallery item -->
-                <div class="sq-item">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/5.2.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-                <!-- gallery item -->
-                <div class="sq-item wow">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/5.3.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-            </div>
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-expert">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyBold primaryBlue">UNDERSTANDING EXPERT</div>
-                    <div class="text-center dreyHeading">Interviews with experts reveal the
-                        essential steps and challenges in MARS</div>
-                    <div class="text-center dreyBody pb40">Method: semi-structured interviews
-                        with 4 students and 6 learning experts</div>
-                    <div class="text-center dreyBold">A typical MARS learning flow for an expert
-                        student</div>
-                </div>
-            </div>
-            <img class="fullWidth mt20 mb80" src="images/pinecones/6.png">
-            <div id="expert-carousel" class="owl-carousel owl-theme">
-
-                <!-- gallery item -->
-                <div class="sq-item">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/7.1.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-                <!-- gallery item -->
-                <div class="sq-item">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/7.2.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-                <!-- gallery item -->
-                <div class="sq-item wow">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/7.3.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-            </div>
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-user" class="section-locate">
+        <section id="section-user">
             <div class="container dreyContainer">
                 <div class="dreyWrapper">
                     <div class="text-center dreyBold primaryBlue">UNDERSTANDING USERS</div>
-                    <div class="text-center dreyHeading">Reduce the frictions and cognitive load for students in doing MARS and help them organize and analyze their mistakes.</div>
+                    <div class="text-center dreyHeading">Reduce the frictions and cognitive load for students in doing MARS and help them organize and analyze their mistakes</div>
                     <div class="text-center dreyBody">The challenges and needs of our student and teacher users point to the potential areas of improvement for the online MARS system</div>
                 </div>
             </div>
-            <img class="fullWidth mt80 mb100" src="images/pinecones/7.png">
-            <img class="fullWidth mt80 mb100" src="images/pinecones/8.png">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyBold">A typical instructional flow for a teacher in Squirrel AI </div>
-                </div>
-            </div>
-            <img class="fullWidth mt80 mb80" src="images/pinecones/9.png">
-            <div id="teacher-carousel" class="owl-carousel owl-theme mb100">
-
-                <!-- gallery item -->
-                <div class="sq-item">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/10.1.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-                <!-- gallery item -->
-                <div class="sq-item">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/10.2.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-                <!-- gallery item -->
-                <div class="sq-item wow">
-                    <div class="picframe wow">
-                        <img src="images/pinecones/10.3.png" class="wow" alt="" />
-                    </div>
-                </div>
-                <!-- close gallery item -->
-
-            </div>
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyBody">From our research process, we’ve identified that the biggest opportunity for improvement lies with in the process of MARS. We should reduce the frictions and cognitive load for students in doing MARS with the online learning system and help them organize and analyze their mistakes.</div>
-                </div>
-            </div>
+            <img class="fullWidth mt80 mb100" src="images/pinecones/4.png">
+            <img class="fullWidth mt80 mb100" src="images/pinecones/5.png">
         </section>
         <!-- section close -->
 
@@ -448,7 +414,7 @@
         <section id="section-challenges" class="blackbg">
             <div class="container dreyContainer">
                 <div class="dreyWrapper">
-                    <div class="text-center dreyHeading">Challenges</div>
+                    <div class="text-center dreyHeading">Connect challenges with design strategies</div>
                 </div>
             </div>
             <div class="container text-light">
@@ -463,9 +429,8 @@
                                         external motivation</div>
                                 </div>
                                 <div class="info">
-                                    <div class="dreyBody mb0">Lack of internal & external motivation
-                                        to start and persist doing MARS can easily make MARS a
-                                        formality as homework.</div>
+                                    <div class="dreyBody mb0">Using MARS as a formality of homework can easily lead to the lack of students’ internal and external motivation.
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -482,7 +447,8 @@
                                         MARS with limited metacognitive abilities</div>
                                 </div>
                                 <div class="info">
-                                    <div class="dreyBody mb0">There are critical needs of metacognitive abilities for selecting, reviewing, and analyzing their mistaken problems to help students see the value of doing MARS.</div>
+                                    <div class="dreyBody mb0">There are critical needs of metacognitive abilities for selecting, reviewing, and analyzing their mistaken problems to help students see the value of doing MARS.
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -499,7 +465,8 @@
                                         poor usability in online-offline integration</div>
                                 </div>
                                 <div class="info">
-                                    <div class="dreyBody mb0">Time and usability issues of current online-offline integration can be a problem for students to do & review their mistake analysis notebook</div>
+                                    <div class="dreyBody mb0">Time and usability issues of current online-offline integration can be a problem for students to do & review their mistake analysis notebook
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -508,15 +475,30 @@
                     <div class="clearfix"></div>
                 </div>
             </div>
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-reframe">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyBold primaryBlue">REFRAME THE PROBLEM</div>
-                    <div class="text-center dreyHeading">How Might We motivate and support students to learn from their most important mistakes during their review and reflection process?
+            <div class="container challenges">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 text-center">
+                        <img src="images/pinecones/arrow-down.png">
+                    </div>
+                    <div class="col-lg-4 col-md-4 text-center">
+                        <img src="images/pinecones/arrow-down.png">
+                    </div>
+                    <div class="col-lg-4 col-md-4 text-center">
+                        <img src="images/pinecones/arrow-down.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="text-center dreyBody">Students can easily filter and manage the important mistake problems with the support from instructors and the system
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="text-center dreyBody">Personalize and localize the problem practice and offer online-offline study integration
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="text-center dreyBody">Support metacognitive skill development to lower the thresholds of MARS
+                        </div>
                     </div>
                 </div>
             </div>
@@ -534,26 +516,7 @@
                         ideas in a difficulty & importance matrix, speed-dated them with users to get feedback, and finalized our idea based on the results.</div>
                 </div>
             </div>
-            <img class="fullWidth mt80" src="images/pinecones/11.png">
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-solution">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <img class="mb20 solutionpic" src="images/pinecones/iconSolution.png">
-                    <div class="text-center dreyHeading"> Our selected idea: The Starred Problem Set</div>
-                    <div class="text-center dreyHeading">With the Starred Problem Set, we aim to
-                        help students easily organize and locate their most important mistaken
-                        problems. We also intend to help students analyze their mistaken problems
-                        to deepen their understandings.
-                    </div>
-                    <div class="text-center dreyHeading">The Starred Question Set serves the need that
-                        Students need to learn from their most important mistaken problems and review them efficiently.
-                    </div>
-                </div>
-            </div>
+            <img class="fullWidth mt80" src="images/pinecones/6.png">
         </section>
         <!-- section close -->
 
@@ -562,42 +525,11 @@
             <div class="container dreyContainer">
                 <div class="dreyWrapper">
                     <div class="text-center dreyTitle">Design Decisions</div>
-                    <div class="text-center dreyHeading">Evaluate Features around Starred Problem Set</div>
-                    <div class="text-center dreyBody">During the first round of the user testing,
-                        we interviewed 7 students to identify whether the feature will serve their
-                        needs and also solicit their feedback to refine the details of our ideas.
+                    <div class="text-center dreyBody">During the user testing sessions,
+                        we interviewed 40+ students to prioritize and iterate on features that:
+                        1. Mimic the offline annotation scenario and also take advantage of
+                        intelligent tools; 2. Assist students to review the most important problems and seek help from the professors.
                     </div>
-                    <div class="prototypeFeature">
-                        <div class="prototypeWrapper">
-                            <div class="dreyBold">Prioritize the features that</div>
-                            <div class="grayrect"></div><div class="dreyBody">Help students to categorize
-                            and organize the problems by tagging them</div>
-                            <div class="grayrect"></div><div class="dreyBody">Enable students to make
-                            annotations in a way that mimics the offline situation and also take
-                            advantage of intelligent tools to save their time.</div>
-                            <div class="grayrect"></div><div class="dreyBody">Assist students to review
-                            the most important problems and seek help from the professors.</div>
-                        </div>
-                    </div>
-                    <div class="fullWidth featurepic mt80"></div>
-                </div>
-            </div>
-            <div class="container dreyContainer mt80">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyHeading">User Quotes</div>
-                </div>
-            </div>
-            <div class="quote mt20">
-                <div class="row quotation">
-                    <div class="col-lg-4 col-md-4 dreyBody">"</div>
-                    <div class="col-lg-4 col-md-4 dreyBody">"</div>
-                    <div class="col-lg-4 col-md-4 dreyBody">"</div>
-                </div>
-                <div class="row text">
-                    <div class="col-lg-4 col-md-4 dreyBody">I like the professors’ annotation feature which help me to
-                        deepen the understanding of the certain concepts.</div>
-                    <div class="col-lg-4 col-md-4 dreyBody">If time is tight, I can skip difficult questions with the filter feature. Do the key questions first. </div>
-                    <div class="col-lg-4 col-md-4 dreyBody">Practice relevant problems will deepen my understanding of the certain knowledge components.</div>
                 </div>
             </div>
         </section>
@@ -620,11 +552,13 @@
             <div class="container dreyContainer">
                 <div class="dreyWrapper">
                     <div class="text-center dreyTitle">1</div>
-                    <div class="text-center dreyBold">Enable students to make annotations in a way that mimics the offline situation and to take advantage of intelligent tools to save their time. </div>
-                    <div class="text-center dreyBody">We did user testings to understand students’ habits of making the annotations, what tools they will choose and what will they prioritize. Based on our findings, we designed the toolbox that will enable them to make annotations efficiently.</div>
+                    <div class="text-center dreyBold"> Enable students to make annotations in a way that mimics the offline situation and to take advantage of intelligent tools to accelerate the reflection process.
+                    </div>
+                    <div class="text-center dreyBody">We did user testings to understand students’ habits of making the annotations, what tools they will choose and what will they prioritize. Based on our findings, we designed the toolbox that will enable them to make annotations efficiently.
+                    </div>
                 </div>
             </div>
-            <img class="fullWidth mt80" src="images/pinecones/13.png">
+            <img class="fullWidth mt80" src="images/pinecones/7.png">
         </section>
         <!-- section close -->
 
@@ -633,28 +567,11 @@
             <div class="container dreyContainer">
                 <div class="dreyWrapper">
                     <div class="text-center dreyTitle">2</div>
-                    <div class="text-center dreyBold">Speed up annotation by taking advantages of online tool while maintaining offline characteristics</div>
-                    <div class="text-center dreyBody">During their annotation process, students
-                        may want to take a closer examination of the definitions and the formulas
-                        of certain knowledge components. They need a convenient and efficient way
-                        to help them quickly acquire the information they need. so we designed
-                        this auto-fill feature to satisfy their needs.</div>
-                </div>
-            </div>
-            <img class="fullWidth mt80" src="images/pinecones/14.png">
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-iteration3">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyTitle">3</div>
                     <div class="text-center dreyBold">Incorporate student-teacher interaction to the maximum extent without adding too much workload to teachers</div>
                     <div class="text-center dreyBody">Based on our interviews with students and teachers, we found that it’s essential to enable teachers to easily assist students to deepen their understanding of certain concepts and knowledge components and the starred problem set can also serve as a tool for the communication between professors and students. During the iteration, we add several features to satisfy this need. </div>
                 </div>
             </div>
-            <img class="fullWidth mt80" src="images/pinecones/15.png">
+            <img class="fullWidth mt80" src="images/pinecones/8.png">
         </section>
         <!-- section close -->
 
@@ -670,40 +587,15 @@
         <!-- section close -->
 
         <!-- section begin -->
-        <section id="section-iteration4">
+        <section id="section-iteration3">
             <div class="container dreyContainer">
                 <div class="dreyWrapper">
                     <div class="text-center dreyTitle">1</div>
-                    <div class="text-center dreyBold">Improve the efficiency of the reviewing process</div>
+                    <div class="text-center dreyBold">Iterate on the homepage layout to prioritize core information and make the information architecture explicit
+                    </div>
                 </div>
             </div>
-            <img class="fullWidth mt80" src="images/pinecones/16.png">
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-iteration5">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyTitle">2</div>
-                    <div class="text-center dreyBold">Reducing redundant steps to streamline printing flow</div>
-                    <div class="text-center dreyBody">Based on our user testing, we found that our users will select the problems that they want to print at one time instead of putting the problem into the printing list when reviewing the problems. So we iterated on the printing flow to allow users to choose the problems that they want to print in a separate page.</div>
-                </div>
-            </div>
-            <img class="fullWidth mt80" src="images/pinecones/17.png">
-        </section>
-        <!-- section close -->
-
-        <!-- section begin -->
-        <section id="section-iteration6">
-            <div class="container dreyContainer">
-                <div class="dreyWrapper">
-                    <div class="text-center dreyTitle">3</div>
-                    <div class="text-center dreyBold">Reducing redundant steps to streamline printing flow</div>
-                    <div class="text-center dreyBody">Based on our user testing, we found that it’s essential to help students form the habits of making the annotation for later review. Thus, we allow students to go through the annotation flow before adding the problems to the starred problem set. </div>
-                </div>
-            </div>
-            <img class="fullWidth mt80" src="images/pinecones/18.png">
+            <img class="fullWidth mt80" src="images/pinecones/9.png">
         </section>
         <!-- section close -->
 
@@ -711,14 +603,14 @@
         <section id="section-iteration7">
             <div class="container dreyContainer">
                 <div class="dreyWrapper">
-                    <div class="text-center dreyTitle">4</div>
-                    <div class="text-center dreyBold">Adding on-boarding prompts to improve feature discovery and usage</div>
+                    <div class="text-center dreyTitle">2</div>
+                    <div class="text-center dreyBold">Add on-boarding prompts to improve feature discovery and usage</div>
                 </div>
             </div>
             <div class="container">
                 <div class="row fullWidth mb100">
                     <div class="col-lg-6 col-md-6">
-                        <img class="fullWidth" src="images/pinecones/19.png">
+                        <img class="fullWidth" src="images/pinecones/onboarding1.png">
                     </div>
                     <div class="col-lg-6 col-md-6 dreyBody">Based on our user testing, we
                         found that users may have difficulties in discovering the features we
@@ -728,7 +620,7 @@
                 </div>
                 <div class="row fullWidth">
                     <div class="col-lg-6 col-md-6">
-                        <img class="fullWidth" src="images/pinecones/20.png">
+                        <img class="fullWidth" src="images/pinecones/onboarding2.png">
                     </div>
                     <div class="col-lg-6 col-md-6 dreyBody">We also added hints to the
                         picture-editing feature, to make the functionalities more explicit
@@ -744,7 +636,7 @@
                     <div class="text-center dreyTitle">Design System</div>
                 </div>
             </div>
-            <img class="fullWidth mt80" src="images/pinecones/21.png">
+            <img class="fullWidth mt80" src="images/pinecones/10.png">
         </section>
         <!-- section close -->
 
@@ -800,13 +692,13 @@
             <div class="dot"></div>Overview
         </div>
         <div onclick="scrollToView('section-measure')" class="navlink">
-            <div class="dot"></div>Measuring Success
+            <div class="dot"></div>Solution
         </div>
         <div onclick="scrollToView('section-process')" class="navlink">
-            <div class="dot"></div>General Research
+            <div class="dot"></div>Measuring Success
         </div>
         <div onclick="scrollToView('section-user')" class="navlink">
-            <div class="dot"></div>User Study
+            <div class="dot"></div>Our Approach
         </div>
         <div onclick="scrollToView('section-ideation')" class="navlink">
             <div class="dot"></div>Ideation
