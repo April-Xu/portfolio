@@ -17,7 +17,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="3900">
               <caret line="260" column="46" lean-forward="true" selection-start-line="260" selection-start-column="46" selection-end-line="260" selection-end-column="46" />
               <folding />
             </state>
@@ -27,8 +27,8 @@
       <file leaf-file-name="familyplay.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/familyplay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="115" column="38" lean-forward="false" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
+            <state relative-caret-position="645">
+              <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -138,7 +138,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>side-</find>
       <find>home</find>
       <find>hover</find>
       <find>hvr-pulse-grow</find>
@@ -168,6 +167,7 @@
       <find>naviga</find>
       <find>hamburg</find>
       <find>solution</find>
+      <find>video</find>
     </findStrings>
     <replaceStrings>
       <replace>social</replace>
@@ -406,12 +406,12 @@
       <workItem from="1600375944914" duration="845000" />
       <workItem from="1600380164484" duration="1051000" />
       <workItem from="1600382155689" duration="83000" />
-      <workItem from="1600457514516" duration="4466000" />
+      <workItem from="1600457514516" duration="5128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183114000" />
+    <option name="totallyTimeSpent" value="183776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -655,14 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="260" column="46" lean-forward="true" selection-start-line="260" selection-start-column="46" selection-end-line="260" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style_new.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -722,10 +714,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3900">
+          <caret line="260" column="46" lean-forward="true" selection-start-line="260" selection-start-column="46" selection-end-line="260" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/familyplay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="115" column="38" lean-forward="false" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
+        <state relative-caret-position="645">
+          <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
           <folding />
         </state>
       </provider>
