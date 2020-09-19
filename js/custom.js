@@ -74,8 +74,8 @@
         navigationTooltips: [
         	'Introduction',
 			'01 PineCones',
-			'02 EureKAS',
-			'03 FamilyPlay',
+			'02 FamilyPlay',
+			'03 EureKAS',
 			'03 Chocolate Therapy',
 			'05 Save Hobo Turkey'
 		]
