@@ -106,11 +106,11 @@
       <file leaf-file-name="pinecones.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pinecones.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="409" column="63" lean-forward="false" selection-start-line="409" selection-start-column="63" selection-end-line="409" selection-end-column="63" />
+            <state relative-caret-position="339">
+              <caret line="412" column="39" lean-forward="false" selection-start-line="412" selection-start-column="39" selection-end-line="412" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1600915216498" expanded="true" signature="15420:17715" ph="..." />
+                <marker date="1600915426755" expanded="true" signature="15420:17715" ph="..." />
               </folding>
             </state>
           </provider>
@@ -401,12 +401,12 @@
       <workItem from="1600628426215" duration="469000" />
       <workItem from="1600905808455" duration="242000" />
       <workItem from="1600914161070" duration="256000" />
-      <workItem from="1600915040204" duration="263000" />
+      <workItem from="1600915040204" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188685000" />
+    <option name="totallyTimeSpent" value="188804000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -717,11 +717,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pinecones.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="409" column="63" lean-forward="false" selection-start-line="409" selection-start-column="63" selection-end-line="409" selection-end-column="63" />
+        <state relative-caret-position="339">
+          <caret line="412" column="39" lean-forward="false" selection-start-line="412" selection-start-column="39" selection-end-line="412" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1600915216498" expanded="true" signature="15420:17715" ph="..." />
+            <marker date="1600915426755" expanded="true" signature="15420:17715" ph="..." />
           </folding>
         </state>
       </provider>
