@@ -72,11 +72,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
               <caret line="205" column="49" lean-forward="false" selection-start-line="205" selection-start-column="49" selection-end-line="205" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pinecones.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pinecones.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="149" column="53" lean-forward="false" selection-start-line="149" selection-start-column="53" selection-end-line="149" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -196,7 +206,6 @@
         <option value="$PROJECT_DIR$/homepage.html" />
         <option value="$PROJECT_DIR$/js/fullpage.js" />
         <option value="$PROJECT_DIR$/css/style_new.css" />
-        <option value="$PROJECT_DIR$/pinecones.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/test2.js" />
         <option value="$PROJECT_DIR$/test3.js" />
@@ -208,6 +217,7 @@
         <option value="$PROJECT_DIR$/eurekas.html" />
         <option value="$PROJECT_DIR$/playground.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/pinecones.html" />
       </list>
     </option>
   </component>
@@ -402,12 +412,12 @@
       <workItem from="1603050507431" duration="1746000" />
       <workItem from="1603215082152" duration="151000" />
       <workItem from="1603435754200" duration="243000" />
-      <workItem from="1604098896329" duration="1045000" />
+      <workItem from="1604098896329" duration="1114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196629000" />
+    <option name="totallyTimeSpent" value="196698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -610,13 +620,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinecones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10020">
-          <caret line="764" column="14" lean-forward="true" selection-start-line="764" selection-start-column="14" selection-end-line="764" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test3.js" />
     <entry file="file://$PROJECT_DIR$/test2.js" />
     <entry file="file://$PROJECT_DIR$/test.js" />
@@ -704,6 +707,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="205" column="49" lean-forward="false" selection-start-line="205" selection-start-column="49" selection-end-line="205" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinecones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="149" column="53" lean-forward="false" selection-start-line="149" selection-start-column="53" selection-end-line="149" selection-end-column="53" />
           <folding />
         </state>
       </provider>
