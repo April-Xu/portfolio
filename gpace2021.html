@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gpace 2021 Lucky Draw</title>
+    <link rel="stylesheet" href="css/animate.css" type="text/css">
+
+    <style tyle="css">
+        body {
+            text-align: center;
+            margin-top: 8%;
+            font-family: "Open Sans";
+        }
+
+        p {
+            font-size: 2em;
+        }
+
+        button {
+            font-size: 1.5em;
+            border-radius: 0.5em;
+            padding: 5px 20px;
+            margin: 10px 40px;
+            background-color: black;
+            color: white;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<h1>Gpace 2021 Lucky Draw Attendee List</h1>
+    <p id="content" class="animated">Dace<br>
+        Luge<br>
+        Echo<br>
+        Kyle<br>
+        Xuan<br>
+        Kaibo<br>
+        Mengshi<br>
+        Sabrina<br>
+        Olivia<br>
+    </p>
+    <button onclick="shuffle()">Shuffle</button>
+
+
+
+
+<script>
+    var attendees = ['Dace', 'Luge', 'Echo', 'Kyle', 'Xuan', 'Kaibo', 'Mengshi', 'Sabrina'],
+        result = [],
+        content = document.getElementById("content");
+
+    function shuffleSelf(array, size) {
+        var index = -1,
+            length = array.length,
+            lastIndex = length - 1;
+
+        size = size === undefined ? length : size;
+        while (++index < size) {
+            // var rand = baseRandom(index, lastIndex),
+            var rand = index + Math.floor( Math.random() * (lastIndex - index + 1))
+            value = array[rand];
+
+            array[rand] = array[index];
+
+            array[index] = value;
+        }
+        array.length = size;
+        return array;
+    }
+
+    function shuffle() {
+        result = shuffleSelf(attendees, 8);
+        content.classList.add("flip");
+
+        content.innerHTML = '';
+
+        for (var i=0; i<8; i++) {
+            content.innerHTML += result[i] + '<br>';
+        };
+
+        content.innerHTML += "Olivia";
+
+        content.addEventListener('animationend', () => {
+            content.classList.remove("flip");
+        });
+
+
+
+    }
+
+
+</script>
+
+</body>
+</html>
