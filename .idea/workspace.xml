@@ -50,8 +50,8 @@
       <file leaf-file-name="gpace2021.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gpace2021.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="330">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -433,12 +433,12 @@
       <workItem from="1605762944401" duration="118000" />
       <workItem from="1606362814379" duration="944000" />
       <workItem from="1609180869226" duration="514000" />
-      <workItem from="1613142055249" duration="3958000" />
+      <workItem from="1613142055249" duration="4022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204860000" />
+    <option name="totallyTimeSpent" value="204924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -764,8 +764,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gpace2021.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="330">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding />
         </state>
       </provider>
