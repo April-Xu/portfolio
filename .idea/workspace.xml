@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="66" />
+            <state relative-caret-position="270">
+              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="70" />
               <folding>
                 <marker date="1606362883465" expanded="true" signature="8549:9131" ph="..." />
                 <marker date="1606362883465" expanded="true" signature="8693:8820" ph="..." />
@@ -50,8 +50,8 @@
       <file leaf-file-name="gpace2021.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gpace2021.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -174,8 +174,8 @@
       <find>.section</find>
       <find>.cust</find>
       <find>container {</find>
-      <find>animate</find>
       <find>flipouty</find>
+      <find>animate</find>
     </findStrings>
     <replaceStrings>
       <replace>social</replace>
@@ -433,12 +433,12 @@
       <workItem from="1605762944401" duration="118000" />
       <workItem from="1606362814379" duration="944000" />
       <workItem from="1609180869226" duration="514000" />
-      <workItem from="1613142055249" duration="3656000" />
+      <workItem from="1613142055249" duration="3958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204558000" />
+    <option name="totallyTimeSpent" value="204860000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -743,17 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="66" />
-          <folding>
-            <marker date="1606362883465" expanded="true" signature="8549:9131" ph="..." />
-            <marker date="1606362883465" expanded="true" signature="8693:8820" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -762,10 +751,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="70" />
+          <folding>
+            <marker date="1606362883465" expanded="true" signature="8549:9131" ph="..." />
+            <marker date="1606362883465" expanded="true" signature="8693:8820" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gpace2021.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="105">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>
